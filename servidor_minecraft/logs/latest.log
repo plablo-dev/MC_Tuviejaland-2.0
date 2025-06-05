@@ -650,3 +650,9 @@
 [21:37:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
 [21:37:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
 [21:37:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[21:39:36] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[21:39:36] [Server thread/INFO]: JEspantaViejas left the game
+[21:39:36] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[21:42:24] [Server thread/INFO]: Chocorramo_XXX lost connection: Disconnected
+[21:42:24] [Server thread/INFO]: Chocorramo_XXX left the game
+[21:42:24] [Server thread/INFO]: [voicechat] Disconnecting client Chocorramo_XXX
