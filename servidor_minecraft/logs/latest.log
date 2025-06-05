@@ -583,3 +583,49 @@
 [21:07:34] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
 [21:07:34] [Server thread/INFO]: JEspantaViejas left the game
 [21:07:34] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[21:09:44] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:48393] logged in with entity id 251000 at (751.5306495121448, 58.0, -288.5234410893895)
+[21:09:44] [Server thread/INFO]: JEspantaViejas joined the game
+[21:09:45] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
+[21:09:45] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[21:09:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:09:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:09:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[21:19:16] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[21:19:16] [Server thread/INFO]: Trejos1111 left the game
+[21:19:16] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[21:19:59] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[21:19:59] [Server thread/INFO]: JEspantaViejas left the game
+[21:19:59] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[21:22:24] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:33105] logged in with entity id 258611 at (1173.699999988079, -38.0, -311.30000001192093)
+[21:22:24] [Server thread/INFO]: JEspantaViejas joined the game
+[21:22:25] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
+[21:22:25] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[21:22:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:22:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:22:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[21:25:21] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[21:25:21] [Server thread/INFO]: JEspantaViejas left the game
+[21:25:21] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[21:26:08] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:50197] logged in with entity id 261588 at (235.1761751176472, 12.0, -63.73113087133333)
+[21:26:08] [Server thread/INFO]: JEspantaViejas joined the game
+[21:26:09] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
+[21:26:09] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[21:26:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:26:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:26:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[21:27:03] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[21:27:03] [Server thread/INFO]: JEspantaViejas left the game
+[21:27:03] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[21:27:46] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:41105] logged in with entity id 263020 at (276.85711751487986, 9.0, -68.22224787598766)
+[21:27:46] [Server thread/INFO]: JEspantaViejas joined the game
+[21:27:47] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
+[21:27:47] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[21:27:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:27:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:27:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[21:28:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1 timed out
+[21:28:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player JEspantaViejas
+[21:28:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[21:28:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:28:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[21:28:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
