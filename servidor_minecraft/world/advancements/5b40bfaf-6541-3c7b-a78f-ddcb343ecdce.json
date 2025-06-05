@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2025-06-03 18:22:12 +0000",
       "minecraft:forest": "2025-05-30 20:16:19 +0000",
       "minecraft:deep_ocean": "2025-06-03 18:16:56 +0000",
+      "minecraft:lush_caves": "2025-06-05 20:36:57 +0000",
       "minecraft:ice_spikes": "2025-06-03 19:02:08 +0000",
       "minecraft:frozen_ocean": "2025-06-03 18:27:13 +0000",
       "minecraft:frozen_river": "2025-06-03 19:01:53 +0000",
@@ -18,9 +19,11 @@
       "minecraft:ocean": "2025-06-03 18:15:00 +0000",
       "minecraft:cherry_grove": "2025-06-05 19:09:40 +0000",
       "minecraft:sunflower_plains": "2025-06-05 19:01:48 +0000",
+      "minecraft:birch_forest": "2025-06-05 20:32:23 +0000",
       "minecraft:snowy_beach": "2025-06-03 19:00:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-03 18:20:38 +0000",
       "minecraft:beach": "2025-06-03 18:13:50 +0000",
+      "minecraft:dark_forest": "2025-06-05 20:36:55 +0000",
       "minecraft:mangrove_swamp": "2025-06-05 18:53:37 +0000",
       "minecraft:sparse_jungle": "2025-05-30 18:33:01 +0000",
       "minecraft:river": "2025-05-30 18:32:04 +0000",
@@ -29,6 +32,7 @@
       "minecraft:snowy_plains": "2025-06-03 18:25:58 +0000",
       "minecraft:dripstone_caves": "2025-06-03 20:14:51 +0000",
       "minecraft:snowy_taiga": "2025-06-03 20:12:27 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-05 20:33:05 +0000",
       "minecraft:deep_dark": "2025-06-05 19:28:01 +0000",
       "minecraft:savanna": "2025-05-30 18:28:57 +0000",
       "minecraft:plains": "2025-05-30 18:32:33 +0000"
@@ -3499,9 +3503,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-06-05 20:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-06-05 19:50:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-05 20:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-05 20:42:56 +0000"
     },
     "done": true
   },

@@ -499,3 +499,62 @@
 [20:00:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
 [20:00:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
 [20:03:01] [Server thread/INFO]: Villager class_1646['Villager'/87765, l='ServerLevel[world]', x=716.39, y=58.11, z=-94.44] died, message: 'Villager tried to swim in lava'
+[20:27:53] [Server thread/INFO]: Chocorramo_XXX[/127.160.117.96:53799] logged in with entity id 210312 at (730.6999999880791, 69.875, -273.5625120985315)
+[20:27:53] [Server thread/INFO]: Chocorramo_XXX joined the game
+[20:27:55] [Server thread/INFO]: [voicechat] Received secret request of Chocorramo_XXX (18)
+[20:27:55] [Server thread/INFO]: [voicechat] Sent secret to Chocorramo_XXX
+[20:27:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 495a40b7-29be-398c-98b3-ea7769157b5d
+[20:27:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 495a40b7-29be-398c-98b3-ea7769157b5d
+[20:27:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chocorramo_XXX (495a40b7-29be-398c-98b3-ea7769157b5d) successfully connected to voice chat
+[20:28:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 495a40b7-29be-398c-98b3-ea7769157b5d timed out
+[20:28:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Chocorramo_XXX
+[20:28:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Chocorramo_XXX
+[20:28:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 495a40b7-29be-398c-98b3-ea7769157b5d
+[20:28:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 495a40b7-29be-398c-98b3-ea7769157b5d
+[20:28:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chocorramo_XXX (495a40b7-29be-398c-98b3-ea7769157b5d) successfully connected to voice chat
+[20:29:55] [Server thread/INFO]: RICHARDESC207[/127.42.195.91:56597] logged in with entity id 211794 at (-1003.8536450258825, 115.0, -792.8241294639821)
+[20:29:55] [Server thread/INFO]: RICHARDESC207 joined the game
+[20:29:55] [Server thread/INFO]: [voicechat] Received secret request of RICHARDESC207 (18)
+[20:29:55] [Server thread/INFO]: [voicechat] Sent secret to RICHARDESC207
+[20:29:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[20:29:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[20:29:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+[20:31:38] [Server thread/INFO]: RICHARDESC207 lost connection: Disconnected
+[20:31:38] [Server thread/INFO]: RICHARDESC207 left the game
+[20:31:38] [Server thread/INFO]: [voicechat] Disconnecting client RICHARDESC207
+[20:33:52] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[20:39:24] [Server thread/INFO]: Trejos1111[/127.60.167.187:57271] logged in with entity id 225389 at (-1023.1577908838163, 111.0, -773.4613424098022)
+[20:39:24] [Server thread/INFO]: Trejos1111 joined the game
+[20:39:24] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[20:39:24] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[20:39:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[20:39:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[20:39:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[20:40:24] [Server thread/INFO]: Chocorramo_XXX has made the advancement [Chest Slayer]
+[20:43:38] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:35169] logged in with entity id 230137 at (738.5611767599597, 67.1875, -274.58255842306846)
+[20:43:38] [Server thread/INFO]: JEspantaViejas joined the game
+[20:43:39] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
+[20:43:39] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[20:43:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[20:43:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[20:43:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[20:44:05] [Server thread/INFO]: [Not Secure] <Chocorramo_XXX> metase juilian
+[20:44:21] [Server thread/INFO]: [Not Secure] <JEspantaViejas> gene
+[20:44:22] [Server thread/INFO]: [Not Secure] <JEspantaViejas> hable
+[20:47:05] [Server thread/INFO]: [Not Secure] <JEspantaViejas> santiago
+[20:47:12] [Server thread/INFO]: [Not Secure] <JEspantaViejas> necesita la mejora de netherite ?
+[20:47:18] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> No
+[20:50:52] [Server thread/INFO]: Dezar68 has made the advancement [Into Fire]
+[20:54:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[20:54:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[20:54:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[20:54:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1 timed out
+[20:54:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player JEspantaViejas
+[20:54:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to JEspantaViejas
+[20:54:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[20:54:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[20:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
+[20:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
+[20:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[20:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[20:57:46] [Server thread/INFO]: Chocorramo_XXX has made the advancement [Into Fire]
