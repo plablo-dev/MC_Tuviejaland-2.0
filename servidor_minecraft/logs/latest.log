@@ -451,3 +451,23 @@
 [19:33:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
 [19:33:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
 [19:33:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+[19:39:22] [Server thread/INFO]: Trejos1111[/127.60.167.187:40775] logged in with entity id 180161 at (-1705.2999221901096, 111.0, -4688.897609715652)
+[19:39:22] [Server thread/INFO]: Trejos1111 joined the game
+[19:39:23] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[19:39:23] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[19:39:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[19:39:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[19:39:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[19:42:44] [Server thread/INFO]: RICHARDESC207 lost connection: Disconnected
+[19:42:44] [Server thread/INFO]: RICHARDESC207 left the game
+[19:42:44] [Server thread/INFO]: [voicechat] Disconnecting client RICHARDESC207
+[19:43:37] [Server thread/INFO]: Villager class_1646['Nitwit'/179583, l='ServerLevel[world]', x=-987.46, y=113.36, z=-774.70] died, message: 'Nitwit was burned to a crisp while fighting Trejos1111'
+[19:44:59] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[19:44:59] [Server thread/INFO]: Trejos1111 left the game
+[19:44:59] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[19:45:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[19:45:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[19:45:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[19:46:10] [Server thread/INFO]: IlarilarieOhOHIO lost connection: Timed out
+[19:46:10] [Server thread/INFO]: IlarilarieOhOHIO left the game
+[19:46:10] [Server thread/INFO]: [voicechat] Disconnecting client IlarilarieOhOHIO
