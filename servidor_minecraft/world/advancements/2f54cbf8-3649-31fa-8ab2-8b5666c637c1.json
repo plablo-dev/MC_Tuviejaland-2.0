@@ -371,6 +371,7 @@
       "minecraft:skeleton": "2025-06-02 17:34:04 +0000",
       "minecraft:phantom": "2025-06-03 00:56:34 +0000",
       "minecraft:witch": "2025-06-04 21:12:47 +0000",
+      "minecraft:ghast": "2025-06-05 23:29:19 +0000",
       "minecraft:hoglin": "2025-06-02 21:18:52 +0000",
       "minecraft:piglin": "2025-06-02 21:44:49 +0000",
       "minecraft:vindicator": "2025-06-04 21:21:42 +0000",
@@ -3159,6 +3160,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-06-05 20:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-05 23:29:50 +0000"
     },
     "done": true
   },
