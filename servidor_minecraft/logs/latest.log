@@ -669,3 +669,49 @@
 [22:34:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
 [22:35:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
 [22:35:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[22:43:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[22:43:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[22:43:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[22:43:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[22:43:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[22:43:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[22:43:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[22:43:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[22:43:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[22:43:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[22:43:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[22:43:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[22:48:11] [Server thread/INFO]: Trejos1111[/127.60.167.187:49705] logged in with entity id 287469 at (-351.5621281298485, 64.0, -989.422206179141)
+[22:48:11] [Server thread/INFO]: Trejos1111 joined the game
+[22:48:12] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[22:48:12] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[22:48:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:48:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:48:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[22:48:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[22:48:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[22:48:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[22:48:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:48:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:48:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[22:48:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[22:48:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[22:48:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[22:48:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:48:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:48:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[22:48:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[22:48:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[22:48:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[22:48:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:48:49] [Server thread/INFO]: [Not Secure] <xHARITOLx> ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttrrrrrrrrrrrrrrrrrrrrrrrrreeeeeeeeeeeeeeeeeeeeeeeeeejjjjjjjjjjjjjjjjjjjjjoooooooooooooooooooossssssssssssssssss
+[22:48:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:48:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[22:49:00] [Server thread/INFO]: [Not Secure] <xHARITOLx> que se dice
+[22:49:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[22:49:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[22:49:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[22:49:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:49:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[22:49:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[22:49:07] [Server thread/INFO]: [Not Secure] <Trejos1111> que mas
