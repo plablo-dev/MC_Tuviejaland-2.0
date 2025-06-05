@@ -281,3 +281,31 @@
 [16:07:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
 [16:07:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
 [16:08:01] [Server thread/INFO]: Trejos1111 is incapacitated!
+[16:08:28] [Server thread/INFO]: Trejos1111 has been revived!
+[16:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
+[16:08:48] [Server thread/INFO]: xHARITOLx lost connection: Disconnected
+[16:08:48] [Server thread/INFO]: xHARITOLx left the game
+[16:08:48] [Server thread/INFO]: [voicechat] Disconnecting client xHARITOLx
+[16:08:52] [Server thread/INFO]: xHARITOLx[/127.247.36.85:40309] logged in with entity id 7888 at (-359.349166053977, 64.0, -991.200207028834)
+[16:08:52] [Server thread/INFO]: xHARITOLx joined the game
+[16:08:53] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
+[16:08:53] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
+[16:08:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[16:08:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[16:08:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[16:11:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5528ms or 110 ticks behind
+[16:13:59] [Server thread/INFO]: [Not Secure] <JEspantaViejas> oigan alguno de ustdees juega formula 1
+[16:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[16:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[16:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[16:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[16:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[16:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[16:21:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[16:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[16:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[16:21:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[16:21:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[16:21:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[16:23:38] [Server thread/INFO]: JEspantaViejas has made the advancement [The Cutest Predator]
+[16:29:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=216, y=47, z=211}
