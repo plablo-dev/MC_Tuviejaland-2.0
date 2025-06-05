@@ -656,3 +656,16 @@
 [21:42:24] [Server thread/INFO]: Chocorramo_XXX lost connection: Disconnected
 [21:42:24] [Server thread/INFO]: Chocorramo_XXX left the game
 [21:42:24] [Server thread/INFO]: [voicechat] Disconnecting client Chocorramo_XXX
+[22:33:48] [Server thread/INFO]: xHARITOLx[/127.247.36.85:51627] logged in with entity id 282566 at (-351.5698106493989, 64.0, -989.8324297796363)
+[22:33:48] [Server thread/INFO]: xHARITOLx joined the game
+[22:33:50] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
+[22:33:50] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
+[22:33:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[22:33:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[22:33:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[22:34:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[22:34:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[22:34:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[22:34:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[22:35:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[22:35:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
