@@ -558,3 +558,28 @@
 [20:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
 [20:54:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
 [20:57:46] [Server thread/INFO]: Chocorramo_XXX has made the advancement [Into Fire]
+[20:58:00] [Server thread/INFO]: Chocorramo_XXX has made the advancement [Ice Bucket Challenge]
+[20:58:12] [Server thread/INFO]: IlarilarieOhOHIO lost connection: Disconnected
+[20:58:12] [Server thread/INFO]: IlarilarieOhOHIO left the game
+[20:58:12] [Server thread/INFO]: [voicechat] Disconnecting client IlarilarieOhOHIO
+[20:59:24] [Server thread/INFO]: Dezar68 lost connection: Disconnected
+[20:59:24] [Server thread/INFO]: Dezar68 left the game
+[20:59:24] [Server thread/INFO]: [voicechat] Disconnecting client Dezar68
+[21:04:40] [Server thread/INFO]: Chocorramo_XXX lost connection: Disconnected
+[21:04:40] [Server thread/INFO]: Chocorramo_XXX left the game
+[21:04:40] [Server thread/INFO]: [voicechat] Disconnecting client Chocorramo_XXX
+[21:04:46] [Server thread/INFO]: Chocorramo_XXX[/127.160.117.96:37519] logged in with entity id 248017 at (751.9597771553562, 58.5, -289.59844715633494)
+[21:04:46] [Server thread/INFO]: Chocorramo_XXX joined the game
+[21:04:47] [Server thread/INFO]: [voicechat] Received secret request of Chocorramo_XXX (18)
+[21:04:47] [Server thread/INFO]: [voicechat] Sent secret to Chocorramo_XXX
+[21:04:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 495a40b7-29be-398c-98b3-ea7769157b5d
+[21:04:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 495a40b7-29be-398c-98b3-ea7769157b5d
+[21:04:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Chocorramo_XXX (495a40b7-29be-398c-98b3-ea7769157b5d) successfully connected to voice chat
+[21:07:10] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[21:07:10] [Server thread/INFO]: JEspantaViejas left the game
+[21:07:10] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[21:07:34] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:58111] logged in with entity id 249828 at (751.5306495121448, 58.0, -288.5234410893895)
+[21:07:34] [Server thread/INFO]: JEspantaViejas joined the game
+[21:07:34] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[21:07:34] [Server thread/INFO]: JEspantaViejas left the game
+[21:07:34] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
