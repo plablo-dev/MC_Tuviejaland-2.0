@@ -309,3 +309,56 @@
 [16:21:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
 [16:23:38] [Server thread/INFO]: JEspantaViejas has made the advancement [The Cutest Predator]
 [16:29:54] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=216, y=47, z=211}
+[16:33:44] [Server thread/INFO]: [Not Secure] <JEspantaViejas> oigan quieren un artifact
+[16:33:52] [Server thread/INFO]: [Not Secure] <JEspantaViejas> tesuqe tengo uno como 4 veces repetido
+[16:34:01] [Server thread/INFO]: [Not Secure] <xHARITOLx> de cual?
+[16:34:07] [Server thread/INFO]: [Not Secure] <JEspantaViejas> onion ring
+[16:34:45] [Server thread/INFO]: [Not Secure] <xHARITOLx> bueno
+[16:37:54] [Server thread/INFO]: [Not Secure] <xHARITOLx> trejos, grupo
+[16:54:03] [Server thread/INFO]: [Not Secure] <JEspantaViejas> activa micro
+[16:57:36] [Server thread/INFO]: [Not Secure] <JEspantaViejas> HEY ALGUNO de ustedes tiene bolas de slime ?
+[17:05:31] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[17:05:31] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[17:05:31] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
+[17:24:54] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=216, y=47, z=211}
+[17:26:19] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[17:26:25] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
+[17:26:25] [Server thread/INFO]: JEspantaViejas left the game
+[17:26:25] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[17:32:14] [Server thread/WARN]: Trejos1111 moved wrongly!
+[17:36:43] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
+[17:37:50] [Server thread/INFO]: RASTEROL[/127.167.19.196:35543] logged in with entity id 87720 at (611.0514926883608, 78.875, -318.5439165045449)
+[17:37:50] [Server thread/INFO]: RASTEROL joined the game
+[17:37:51] [Server thread/INFO]: [voicechat] Received secret request of RASTEROL (18)
+[17:37:51] [Server thread/INFO]: [voicechat] Sent secret to RASTEROL
+[17:37:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7275d4a0-d030-3899-88db-6233bb178a88
+[17:37:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7275d4a0-d030-3899-88db-6233bb178a88
+[17:37:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RASTEROL (7275d4a0-d030-3899-88db-6233bb178a88) successfully connected to voice chat
+[17:38:03] [Server thread/INFO]: Trejos1111 is incapacitated!
+[17:38:18] [Server thread/INFO]: Trejos1111 has been revived!
+[17:38:59] [Server thread/INFO]: [Not Secure] <RASTEROL> ....
+[17:39:07] [Server thread/INFO]: [Not Secure] <RASTEROL> trejos lo escucho
+[17:40:45] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[17:42:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 7275d4a0-d030-3899-88db-6233bb178a88 timed out
+[17:42:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player RASTEROL
+[17:42:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to RASTEROL
+[17:42:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 7275d4a0-d030-3899-88db-6233bb178a88
+[17:42:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 7275d4a0-d030-3899-88db-6233bb178a88
+[17:42:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RASTEROL (7275d4a0-d030-3899-88db-6233bb178a88) successfully connected to voice chat
+[17:43:03] [Server thread/INFO]: Villager class_1646['Weaponsmith'/91158, l='ServerLevel[world]', x=-1243.87, y=51.00, z=-6231.65] died, message: 'Weaponsmith hit the ground too hard while trying to escape xHARITOLx'
+[17:44:03] [Server thread/WARN]: RASTEROL moved wrongly!
+[17:45:04] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=216, y=47, z=211}
+[17:45:09] [Server thread/INFO]: RASTEROL has made the advancement [Ice Bucket Challenge]
+[17:48:37] [Server thread/INFO]: RASTEROL has made the advancement [Hidden in the Depths]
+[17:57:12] [Server thread/INFO]: [Trejos1111: World incapacitated configuration files reloaded.]
+[17:57:35] [Server thread/INFO]: Trejos1111 is incapacitated!
+[17:57:35] [Server thread/INFO]: [Trejos1111: Forcibly incapacitated Trejos1111]
+[17:57:39] [Worker-Main-2/ERROR]: Detected setBlock in a far chunk [-59, -427], pos: class_2338{x=-929, y=53, z=-6832}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[17:57:43] [Server thread/INFO]: Trejos1111 has been revived!
+[17:57:43] [Server thread/INFO]: [Trejos1111: Forcibly revived Trejos1111]
+[17:57:50] [Server thread/INFO]: Trejos1111 is incapacitated!
+[17:57:50] [Server thread/INFO]: [Trejos1111: Forcibly incapacitated Trejos1111]
+[17:57:51] [Server thread/INFO]: Trejos1111 has been revived!
+[17:57:51] [Server thread/INFO]: [Trejos1111: Forcibly revived Trejos1111]
+[17:59:20] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
+[18:06:51] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
