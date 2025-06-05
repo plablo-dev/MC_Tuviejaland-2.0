@@ -387,3 +387,67 @@
 [18:22:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
 [18:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
 [18:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[18:26:40] [Server thread/INFO]: xHARITOLx is incapacitated!
+[18:26:49] [Server thread/INFO]: xHARITOLx hit the ground too hard and bled out
+[18:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[18:26:56] [Server thread/INFO]: [Not Secure] <Trejos1111> :7
+[18:27:03] [Server thread/INFO]: [Not Secure] <Trejos1111> :/
+[18:27:47] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
+[18:28:36] [Server thread/INFO]: Dezar68[/127.129.89.92:58073] logged in with entity id 125678 at (731.5971896773985, 66.0, -97.34398268328438)
+[18:28:36] [Server thread/INFO]: Dezar68 joined the game
+[18:28:38] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[18:28:38] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[18:28:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[18:28:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[18:28:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[18:30:46] [Server thread/INFO]: IlarilarieOhOHIO[/127.160.117.96:37483] logged in with entity id 127778 at (668.334460433863, 78.0, -230.03491608411238)
+[18:30:46] [Server thread/INFO]: IlarilarieOhOHIO joined the game
+[18:30:47] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+[18:30:47] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[18:30:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[18:30:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[18:30:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[18:31:05] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
+[18:34:48] [Server thread/WARN]: Spruce Boat (vehicle of Dezar68) moved wrongly! 0.2658142030501267
+[18:34:48] [Server thread/WARN]: Spruce Boat (vehicle of Dezar68) moved wrongly! 0.5888665572428238
+[18:34:48] [Server thread/WARN]: Spruce Boat (vehicle of Dezar68) moved wrongly! 0.98615651124382
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[18:37:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[18:37:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[18:37:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[18:37:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[18:37:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[18:37:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[18:37:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[18:37:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[18:37:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[18:37:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[18:42:26] [Server thread/INFO]: [Not Secure] <RASTEROL> trejos sea serio que molesta que ande por ahi si va andar al menos que no sea invixible y deje la mariconda a lo bien
+[18:48:06] [Server thread/INFO]: RASTEROL has made the advancement [Amateur Archaeologist]
+[18:54:31] [Server thread/INFO]: RASTEROL lost connection: Disconnected
+[18:54:31] [Server thread/INFO]: RASTEROL left the game
+[18:54:31] [Server thread/INFO]: [voicechat] Disconnecting client RASTEROL
+[18:56:16] [Server thread/INFO]: xHARITOLx lost connection: Disconnected
+[18:56:16] [Server thread/INFO]: xHARITOLx left the game
+[18:56:16] [Server thread/INFO]: [voicechat] Disconnecting client xHARITOLx
+[18:58:32] [Server thread/INFO]: Villager class_1646['Villager'/87742, l='ServerLevel[world]', x=749.85, y=62.38, z=-70.19] died, message: 'Villager was slain by Zombie'
+[18:58:38] [Server thread/INFO]: Villager class_1646['Villager'/87743, l='ServerLevel[world]', x=751.06, y=62.38, z=-70.31] died, message: 'Villager was slain by Zombie'
+[19:03:19] [Server thread/WARN]: Spruce Boat (vehicle of Dezar68) moved wrongly! 0.29823262317188437
+[19:03:19] [Server thread/WARN]: Spruce Boat (vehicle of Dezar68) moved wrongly! 0.31927012001688126
+[19:11:17] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[19:11:17] [Server thread/INFO]: Trejos1111 left the game
+[19:11:17] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[19:33:06] [Server thread/INFO]: RICHARDESC207[/127.42.195.91:40745] logged in with entity id 175076 at (-354.870290019693, 66.0, -983.3295740068207)
+[19:33:06] [Server thread/INFO]: RICHARDESC207 joined the game
+[19:33:07] [Server thread/INFO]: [voicechat] Received secret request of RICHARDESC207 (18)
+[19:33:07] [Server thread/INFO]: [voicechat] Sent secret to RICHARDESC207
+[19:33:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[19:33:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[19:33:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat

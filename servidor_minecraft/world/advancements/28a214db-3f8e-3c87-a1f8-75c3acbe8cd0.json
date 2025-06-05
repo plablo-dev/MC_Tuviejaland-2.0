@@ -2947,9 +2947,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "has_oxeye_daisy": "2025-06-05 03:05:22 +0000"
+      "find_artifact": "2025-06-05 02:45:19 +0000"
     },
     "done": true
   },
@@ -2959,9 +2959,9 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "find_artifact": "2025-06-05 02:45:19 +0000"
+      "has_oxeye_daisy": "2025-06-05 03:05:22 +0000"
     },
     "done": true
   },
