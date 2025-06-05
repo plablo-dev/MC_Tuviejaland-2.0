@@ -1,0 +1,12 @@
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃    Server /spawn location    ┃
+# ┃ Edit in-game using /setspawn ┃
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+x: 17.5
+y: 67.0
+z: -75.5
+yaw: 32.094482421875
+pitch: 88.28688049316406
+world_name: minecraft:overworld
+world_uuid: 41fa8411-17c1-37f4-b08d-9586b63845d5
