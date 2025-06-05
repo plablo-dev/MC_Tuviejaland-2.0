@@ -362,3 +362,28 @@
 [17:57:51] [Server thread/INFO]: [Trejos1111: Forcibly revived Trejos1111]
 [17:59:20] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=203, y=48, z=159}
 [18:06:51] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
+[18:16:32] [Server thread/WARN]: Trejos1111 moved wrongly!
+[18:17:04] [Server thread/INFO]: Villager class_1646['Farmer'/87738, l='ServerLevel[world]', x=707.94, y=63.00, z=-256.51] died, message: 'Farmer was slain by Zombie'
+[18:18:46] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
+[18:20:39] [Server thread/INFO]: Trejos1111 lost connection: Timed out
+[18:20:39] [Server thread/INFO]: Trejos1111 left the game
+[18:20:39] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[18:21:24] [Server thread/INFO]: Trejos1111[/127.60.167.187:58969] logged in with entity id 121020 at (-804.3000000119209, -29.580000013113022, -7015.961423129905)
+[18:21:24] [Server thread/INFO]: Trejos1111 joined the game
+[18:21:25] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[18:21:25] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[18:21:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[18:21:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[18:21:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[18:21:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[18:21:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[18:21:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[18:21:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[18:21:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[18:21:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[18:22:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[18:22:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[18:22:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[18:22:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[18:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[18:22:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
