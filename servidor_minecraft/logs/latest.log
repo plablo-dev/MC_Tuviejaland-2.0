@@ -471,3 +471,31 @@
 [19:46:10] [Server thread/INFO]: IlarilarieOhOHIO lost connection: Timed out
 [19:46:10] [Server thread/INFO]: IlarilarieOhOHIO left the game
 [19:46:10] [Server thread/INFO]: [voicechat] Disconnecting client IlarilarieOhOHIO
+[19:49:53] [Server thread/INFO]: IlarilarieOhOHIO[/127.160.117.96:41305] logged in with entity id 188238 at (-526.4877667676782, -48.0, 2335.699999988079)
+[19:49:53] [Server thread/INFO]: IlarilarieOhOHIO joined the game
+[19:49:53] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+[19:49:53] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[19:49:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[19:49:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[19:49:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[19:50:21] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Sneak 100]
+[19:51:10] [Server thread/INFO]: IlarilarieOhOHIO has completed the challenge [It Spreads]
+[20:00:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[20:00:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[20:00:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[20:00:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[20:00:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[20:00:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[20:00:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[20:00:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[20:00:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[20:00:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[20:00:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[20:00:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[20:00:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[20:00:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[20:00:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[20:00:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[20:00:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[20:00:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[20:03:01] [Server thread/INFO]: Villager class_1646['Villager'/87765, l='ServerLevel[world]', x=716.39, y=58.11, z=-94.44] died, message: 'Villager tried to swim in lava'
