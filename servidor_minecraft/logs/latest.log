@@ -226,3 +226,13 @@
 [17:25:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
 [17:25:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
 [17:25:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[18:06:50] [ForkJoinPool.commonPool-worker-4/WARN]: Failed to fetch skin: not found
+[18:06:52] [Server thread/INFO]: DJ_cuajada09[/127.116.72.166:48997] logged in with entity id 64078 at (734.5278374387917, 66.875, -271.28244928497395)
+[18:06:52] [Server thread/INFO]: DJ_cuajada09 joined the game
+[18:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[18:06:55] [Server thread/INFO]: [voicechat] Received secret request of DJ_cuajada09 (18)
+[18:06:55] [Server thread/INFO]: [voicechat] Sent secret to DJ_cuajada09
+[18:06:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 632cfcef-1764-35b1-9ddc-274be20665c8
+[18:06:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 632cfcef-1764-35b1-9ddc-274be20665c8
+[18:06:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player DJ_cuajada09 (632cfcef-1764-35b1-9ddc-274be20665c8) successfully connected to voice chat
+[18:11:02] [Server thread/INFO]: [Not Secure] <DJ_cuajada09> cuantos hptas driagones mataron? jajaja
