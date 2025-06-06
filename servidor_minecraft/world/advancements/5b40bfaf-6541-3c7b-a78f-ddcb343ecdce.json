@@ -26,6 +26,7 @@
       "minecraft:birch_forest": "2025-06-05 20:32:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-06 04:59:26 +0000",
       "minecraft:snowy_beach": "2025-06-03 19:00:32 +0000",
+      "minecraft:windswept_savanna": "2025-06-06 20:10:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-03 18:20:38 +0000",
       "minecraft:flower_forest": "2025-06-06 04:12:58 +0000",
       "minecraft:beach": "2025-06-03 18:13:50 +0000",
@@ -4340,6 +4341,48 @@
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-06-06 05:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-06 20:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-06 20:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-06 20:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-06 20:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-06 20:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-06-06 20:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 20:19:37 +0000"
     },
     "done": true
   },

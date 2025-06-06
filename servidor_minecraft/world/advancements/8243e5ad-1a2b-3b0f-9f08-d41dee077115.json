@@ -7,20 +7,35 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-06-06 20:16:07 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-06-06 20:17:24 +0000",
+      "minecraft:forest": "2025-05-30 18:51:58 +0000",
+      "minecraft:taiga": "2025-06-06 20:16:05 +0000",
+      "minecraft:deep_ocean": "2025-06-06 00:18:26 +0000",
+      "minecraft:frozen_ocean": "2025-06-06 20:17:53 +0000",
+      "minecraft:frozen_river": "2025-06-06 20:17:49 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-03 19:06:54 +0000",
+      "minecraft:windswept_forest": "2025-06-06 20:11:31 +0000",
+      "minecraft:jungle": "2025-05-30 02:10:09 +0000",
+      "minecraft:ocean": "2025-06-06 20:12:03 +0000",
+      "minecraft:birch_forest": "2025-05-30 23:49:47 +0000",
+      "minecraft:windswept_hills": "2025-06-06 20:10:36 +0000",
+      "minecraft:bamboo_jungle": "2025-06-06 20:13:21 +0000",
+      "minecraft:windswept_savanna": "2025-06-06 20:09:07 +0000",
       "minecraft:beach": "2025-05-30 22:56:49 +0000",
       "minecraft:dark_forest": "2025-06-06 04:32:23 +0000",
-      "minecraft:forest": "2025-05-30 18:51:58 +0000",
+      "minecraft:mangrove_swamp": "2025-06-06 20:09:01 +0000",
       "minecraft:sparse_jungle": "2025-05-30 01:39:47 +0000",
-      "minecraft:deep_ocean": "2025-06-06 00:18:26 +0000",
       "minecraft:river": "2025-05-30 01:36:39 +0000",
       "minecraft:lukewarm_ocean": "2025-06-03 01:50:08 +0000",
+      "minecraft:stony_shore": "2025-06-06 20:17:40 +0000",
       "minecraft:dripstone_caves": "2025-06-06 04:37:57 +0000",
+      "minecraft:snowy_taiga": "2025-06-06 20:17:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-30 22:54:59 +0000",
-      "minecraft:deep_frozen_ocean": "2025-06-03 19:06:54 +0000",
-      "minecraft:jungle": "2025-05-30 02:10:09 +0000",
+      "minecraft:deep_dark": "2025-06-06 20:24:22 +0000",
       "minecraft:grove": "2025-05-30 23:47:54 +0000",
+      "minecraft:swamp": "2025-06-06 20:10:53 +0000",
       "minecraft:meadow": "2025-05-30 23:47:43 +0000",
-      "minecraft:birch_forest": "2025-05-30 23:49:47 +0000",
       "minecraft:savanna": "2025-05-30 01:26:29 +0000",
       "minecraft:plains": "2025-05-30 01:36:56 +0000"
     },
@@ -474,6 +489,7 @@
       "cooked_mutton": "2025-05-30 01:37:14 +0000",
       "cooked_beef": "2025-05-30 01:33:53 +0000",
       "baked_potato": "2025-05-30 22:22:38 +0000",
+      "cooked_salmon": "2025-06-06 20:23:58 +0000",
       "golden_carrot": "2025-06-05 18:44:23 +0000",
       "carrot": "2025-05-30 18:53:14 +0000"
     },
@@ -3664,7 +3680,67 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-06 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-06 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-06 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-06-06 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-06 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-06-06 04:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-06-06 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-06 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-06-06 04:37:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-06 04:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-06 04:43:08 +0000"
     },
@@ -3676,33 +3752,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-06-06 04:45:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-06-06 04:44:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_candle": {
-    "criteria": {
-      "has_cyan_dye": "2025-06-06 04:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-06 04:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-06-06 04:45:12 +0000"
     },
     "done": true
   },
@@ -3712,9 +3764,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_blue_wool": "2025-06-06 04:37:05 +0000"
+      "has_glass_pane": "2025-06-06 04:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-06 04:45:12 +0000"
     },
     "done": true
   },
@@ -3724,27 +3782,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-06 04:43:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-06 04:49:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-06 04:45:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-06 04:37:03 +0000"
     },
     "done": true
   },
@@ -3754,21 +3794,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2025-06-06 04:37:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-06 04:45:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-06 04:53:49 +0000"
     },
     "done": true
   },
@@ -3778,45 +3806,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-06 04:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-06 04:53:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-06 04:45:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-06 04:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-06 04:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2025-06-06 04:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-06-06 04:48:51 +0000"
     },
     "done": true
   },
@@ -3832,21 +3824,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-06-06 04:37:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-06 04:45:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-06 04:37:03 +0000"
     },
     "done": true
   },
@@ -3856,15 +3836,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-06-06 04:37:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-06 04:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-06-06 04:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-06-06 04:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 04:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 04:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 04:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-06 04:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-06 04:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-06 20:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 20:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-06 20:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-06 20:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-06 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 20:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 20:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-06 20:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-06 20:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 20:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 20:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-06-06 20:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 20:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-06 20:23:50 +0000"
     },
     "done": true
   },
