@@ -1,454 +1,289 @@
-[00:00:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
-[00:00:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
-[00:00:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
-[00:00:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
-[00:00:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
-[00:00:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
-[00:01:31] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> perro
-[00:01:43] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> mi casco
-[00:02:17] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> el casco
-[00:02:26] [Server thread/INFO]: [Not Secure] <Trejos1111> no lo tengo
-[00:02:41] [Server thread/INFO]: Dezar68 has made the advancement [Oh Shiny]
-[00:02:54] [Server thread/INFO]: Dezar68 has made the advancement [Who is Cutting Onions?]
-[00:03:50] [Server thread/INFO]: [Not Secure] <xHARITOLx> tiralo al suelo
-[00:03:58] [Server thread/INFO]: [Not Secure] <xHARITOLx> bien, ahora sube las esclaras
-[00:06:50] [Server thread/INFO]: [Not Secure] <pipi_caliente69> harol
-[00:06:54] [Server thread/INFO]: [Not Secure] <xHARITOLx> ke
-[00:07:01] [Server thread/INFO]: [Not Secure] <pipi_caliente69> llegue
-[00:07:08] [Server thread/INFO]: [Not Secure] <xHARITOLx> adonde
-[00:07:12] [Server thread/INFO]: [Not Secure] <pipi_caliente69> mande tpa
-[00:10:10] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
-[00:10:44] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Crafting a New Look]
-[00:12:43] [Server thread/INFO]: [Not Secure] <JEspantaViejas> a donde van ?
-[00:12:54] [Server thread/INFO]: [Not Secure] <xHARITOLx> a bucar aritfact
-[00:14:25] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Oh Shiny]
-[00:15:50] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Who is Cutting Onions?]
-[00:16:50] [Server thread/INFO]: [Not Secure] <pipi_caliente69> mande tpa
-[00:17:01] [Server thread/INFO]: [Not Secure] <Trejos1111> voy
-[00:17:36] [Server thread/INFO]: JEspantaViejas has made the advancement [Suit Up]
-[00:17:41] [Server thread/INFO]: Trejos1111 has made the advancement [Eye Spy]
-[00:17:48] [Server thread/INFO]: JEspantaViejas has made the advancement [Eye Spy]
-[00:18:01] [Server thread/INFO]: [Not Secure] <Trejos1111> manden tp
-[00:18:09] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> pere
-[00:18:26] [Server thread/INFO]: Dezar68 has made the advancement [Eye Spy]
-[00:18:38] [Server thread/INFO]: [Not Secure] <pipi_caliente69> harol es pa hoy
-[00:18:48] [Server thread/INFO]: [Not Secure] <xHARITOLx> ya ñero,deme un minuto
-[00:19:38] [Server thread/INFO]: xHARITOLx has made the advancement [Eye Spy]
-[00:21:01] [Server thread/INFO]: Dezar68 has made the advancement [The End?]
-[00:21:02] [Server thread/INFO]: pipi_caliente69 has made the advancement [The End?]
-[00:21:02] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [The End?]
-[00:21:02] [Server thread/INFO]: JEspantaViejas has made the advancement [The End?]
-[00:21:02] [Server thread/INFO]: xHARITOLx has made the advancement [The End?]
-[00:21:02] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[00:21:02] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[00:21:03] [Server thread/WARN]: pipi_caliente69 moved too quickly! 1287.7742214561542,6.464159374955443,2026.8543650392983
-[00:21:03] [Server thread/WARN]: JEspantaViejas moved too quickly! 1288.4687244614945,6.464159374955443,2024.9783402822234
-[00:21:03] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! 1288.1029387418566,6.265900001525878,2026.9135217594849
-[00:21:03] [Server thread/WARN]: xHARITOLx moved too quickly! 1287.4707667906798,6.3926045499513435,2025.8194161526708
-[00:21:03] [Server thread/INFO]: Trejos1111 has made the advancement [The End?]
-[00:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
-[00:21:11] [Server thread/INFO]: JEspantaViejas is incapacitated!
-[00:21:15] [Server thread/INFO]: xHARITOLx lost connection: Disconnected
-[00:21:15] [Server thread/INFO]: xHARITOLx left the game
-[00:21:15] [Server thread/INFO]: [voicechat] Disconnecting client xHARITOLx
-[00:21:17] [Server thread/INFO]: [Not Secure] <JEspantaViejas> lo hize
-[00:21:18] [Server thread/INFO]: Trejos1111 is incapacitated!
-[00:21:19] [Server thread/WARN]: JEspantaViejas moved too quickly! 0.2770674109774376,-10.321184095335305,1.2783388431241292
-[00:21:19] [Server thread/INFO]: Trejos1111 fell from a high place
-[00:21:21] [Server thread/WARN]: JEspantaViejas moved too quickly! -0.3389366256820239,-15.746770450988024,0.11714963017183977
-[00:21:22] [Server thread/INFO]: [Not Secure] <JEspantaViejas> mierda
-[00:21:23] [Server thread/INFO]: JEspantaViejas fell out of the world
-[00:21:25] [Server thread/INFO]: xHARITOLx[/127.247.36.85:53007] logged in with entity id 368524 at (104.35784113921864, -431.5554015378651, 0.29225325715962225)
-[00:21:25] [Server thread/INFO]: xHARITOLx joined the game
-[00:21:26] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
-[00:21:26] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
-[00:21:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[00:21:27] [Server thread/INFO]: [Not Secure] <pipi_caliente69> jaajjaajaja
-[00:21:27] [Server thread/WARN]: xHARITOLx moved too quickly! 0.0,-22.854348428059666,0.0
-[00:21:27] [Server thread/INFO]: [Not Secure] <JEspantaViejas> grupo
-[00:21:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[00:21:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
-[00:21:29] [Server thread/INFO]: [Not Secure] <JEspantaViejas> ya
-[00:21:30] [Server thread/INFO]: [Not Secure] <Dezar68> XD
-[00:21:31] [Server thread/INFO]: xHARITOLx is incapacitated!
-[00:21:37] [Server thread/INFO]: [Not Secure] <xHARITOLx> oigan
-[00:21:39] [Server thread/INFO]: [Not Secure] <JEspantaViejas> metanse al grupo
-[00:21:40] [Server thread/WARN]: xHARITOLx moved too quickly! 0.0,-23.42288326296466,0.0
-[00:21:40] [Server thread/INFO]: Dezar68 has made the advancement [Ol' Betsy]
-[00:21:41] [Server thread/INFO]: [Not Secure] <JEspantaViejas> negros
-[00:21:43] [Server thread/INFO]: xHARITOLx fell out of the world
-[00:21:51] [Server thread/INFO]: [Not Secure] <xHARITOLx> perros hps
-[00:21:56] [Server thread/INFO]: JEspantaViejas is incapacitated!
-[00:21:59] [Server thread/INFO]: JEspantaViejas fell out of the world
-[00:22:03] [Server thread/INFO]: xHARITOLx is incapacitated!
-[00:22:06] [Server thread/INFO]: xHARITOLx fell out of the world
-[00:22:21] [Server thread/INFO]: [Not Secure] <JEspantaViejas> santi sigue vivo ?
-[00:22:24] [Server thread/INFO]: [Not Secure] <xHARITOLx> me encantaria una explicacion trejos
-[00:22:27] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> si
-[00:23:03] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
-[00:23:23] [Server thread/INFO]: Dezar68 has made the advancement [Take Aim]
-[00:23:36] [Server thread/INFO]: [Trejos1111: Teleported JEspantaViejas to Trejos1111]
-[00:23:47] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[00:23:57] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
-[00:24:07] [Server thread/INFO]: [Not Secure] <JEspantaViejas> deaza
-[00:24:09] [Server thread/INFO]: [Not Secure] <JEspantaViejas> santiago
-[00:24:14] [Server thread/INFO]: [Not Secure] <JEspantaViejas> metanse al grupo
-[00:24:31] [Server thread/INFO]: xHARITOLx has made the advancement [Free the End]
-[00:25:10] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
-[00:25:22] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
-[00:25:25] [Server thread/INFO]: pipi_caliente69 has reached the goal [The Next Generation]
-[00:25:59] [Server thread/INFO]: xHARITOLx has reached the goal [The Next Generation]
-[00:26:09] [Server thread/WARN]: JEspantaViejas moved too quickly! 1.944337246638149,-10.08497194660643,-0.759913904203664
-[00:26:13] [Server thread/INFO]: [Not Secure] <JEspantaViejas> ayuda
-[00:26:13] [Server thread/WARN]: JEspantaViejas moved too quickly! 0.0,-20.669627926121663,0.0
-[00:26:14] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[00:26:14] [Server thread/INFO]: JEspantaViejas left the game
-[00:26:14] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[00:26:29] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:55545] logged in with entity id 373700 at (52.45844466233124, -133.95516442728652, 46.9743803200276)
-[00:26:29] [Server thread/INFO]: JEspantaViejas joined the game
-[00:26:30] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
-[00:26:30] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[00:26:30] [Server thread/INFO]: JEspantaViejas is incapacitated!
-[00:26:31] [Server thread/WARN]: JEspantaViejas moved too quickly! 0.0,-18.209854723513587,0.0
-[00:26:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:26:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:26:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[00:26:35] [Server thread/INFO]: [Trejos1111: Teleported JEspantaViejas to Trejos1111]
-[00:26:49] [Server thread/INFO]: JEspantaViejas has been revived!
-[00:27:14] [Server thread/INFO]: JEspantaViejas has made the advancement [Remote Getaway]
-[00:27:32] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Remote Getaway]
-[00:27:34] [Server thread/INFO]: pipi_caliente69 has made the advancement [Remote Getaway]
-[00:27:37] [Server thread/INFO]: Dezar68 has made the advancement [Remote Getaway]
-[00:27:42] [Server thread/INFO]: Trejos1111 has made the advancement [Remote Getaway]
-[00:28:10] [Server thread/INFO]: JEspantaViejas has made the advancement [The City at the End of the Game]
-[00:28:20] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [The City at the End of the Game]
-[00:28:26] [Server thread/WARN]: xHARITOLx moved too quickly! 0.0,-21.578349761972845,0.0
-[00:28:29] [Server thread/INFO]: [Not Secure] <xHARITOLx> pero porque me tumbaaaa
-[00:28:32] [Server thread/WARN]: xHARITOLx moved too quickly! -0.01394886131106432,-23.35153539765605,1.6668670270966004
-[00:28:35] [Server thread/INFO]: xHARITOLx is incapacitated!
-[00:28:38] [Server thread/WARN]: xHARITOLx moved too quickly! 0.0,-14.133969169922466,0.09419666987821529
-[00:28:48] [Server thread/INFO]: [Not Secure] <xHARITOLx> trejossss
-[00:28:50] [Server thread/INFO]: xHARITOLx fell out of the world
-[00:29:24] [Server thread/INFO]: [Not Secure] <Trejos1111> tp xHARITOLx Trejos1111
-[00:29:30] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[00:29:42] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[00:30:41] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[00:30:41] [Server thread/INFO]: JEspantaViejas left the game
-[00:30:41] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[00:30:48] [Server thread/INFO]: xHARITOLx is incapacitated!
-[00:30:48] [Server thread/INFO]: [Not Secure] <xHARITOLx> ahh mk, no etoy en ningun grupo
-[00:30:53] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:44975] logged in with entity id 376834 at (1021.7523630511344, -156.38437348319812, 1652.8700691791641)
-[00:30:53] [Server thread/INFO]: JEspantaViejas joined the game
-[00:30:54] [Server thread/INFO]: JEspantaViejas is incapacitated!
-[00:30:54] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
-[00:30:54] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[00:30:54] [Server thread/WARN]: JEspantaViejas moved too quickly! 0.0,-20.994977156116647,0.0
-[00:30:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:30:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:30:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[00:31:00] [Server thread/INFO]: JEspantaViejas fell out of the world
-[00:31:01] [Server thread/INFO]: xHARITOLx has been revived!
-[00:31:11] [Server thread/INFO]: JEspantaViejas is incapacitated!
-[00:31:14] [Server thread/INFO]: JEspantaViejas fell out of the world
-[00:31:22] [Server thread/INFO]: [Not Secure] <pipi_caliente69> trejos grupo
-[00:31:22] [Server thread/INFO]: [Not Secure] <xHARITOLx> hp vida
-[00:31:25] [Server thread/INFO]: IlarilarieOhOHIO is incapacitated!
-[00:31:27] [Server thread/INFO]: IlarilarieOhOHIO fell out of the world
-[00:31:38] [Server thread/INFO]: [Not Secure] <JEspantaViejas> metanse al grupo
-[00:31:42] [Server thread/INFO]: IlarilarieOhOHIO is incapacitated!
-[00:31:45] [Server thread/INFO]: IlarilarieOhOHIO fell out of the world
-[00:31:59] [Server thread/INFO]: JEspantaViejas is incapacitated!
-[00:31:59] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! 0.0,-11.841986382348523,0.0
-[00:32:00] [Server thread/INFO]: IlarilarieOhOHIO is incapacitated!
-[00:32:02] [Server thread/INFO]: JEspantaViejas fell out of the world
-[00:32:03] [Server thread/INFO]: IlarilarieOhOHIO fell out of the world
-[00:32:17] [Server thread/INFO]: IlarilarieOhOHIO is incapacitated!
-[00:32:20] [Server thread/INFO]: IlarilarieOhOHIO fell out of the world
-[00:32:23] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
-[00:32:28] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> y ahi que se hace
-[00:32:33] [Server thread/INFO]: [Not Secure] <JEspantaViejas> terjos
-[00:32:34] [Server thread/INFO]: JEspantaViejas is incapacitated!
-[00:32:34] [Server thread/INFO]: [Not Secure] <JEspantaViejas> terjos
-[00:32:37] [Server thread/INFO]: IlarilarieOhOHIO is incapacitated!
-[00:32:37] [Server thread/INFO]: JEspantaViejas fell out of the world
-[00:32:40] [Server thread/INFO]: IlarilarieOhOHIO fell out of the world
-[00:32:41] [Server thread/INFO]: [Not Secure] <Trejos1111> peren
-[00:32:56] [Server thread/INFO]: IlarilarieOhOHIO is incapacitated!
-[00:32:59] [Server thread/INFO]: IlarilarieOhOHIO fell out of the world
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1 timed out
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player JEspantaViejas
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:33:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[00:33:09] [Server thread/INFO]: [Not Secure] <JEspantaViejas> ey
-[00:33:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:33:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[00:33:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[00:33:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
-[00:33:13] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> qie
-[00:33:24] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[00:33:27] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[00:33:28] [Server thread/INFO]: xHARITOLx is incapacitated!
-[00:33:37] [Server thread/INFO]: xHARITOLx has been revived!
-[00:33:44] [Server thread/INFO]: [Not Secure] <JEspantaViejas> oigan
-[00:33:47] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[00:33:48] [Server thread/INFO]: [Not Secure] <JEspantaViejas> tejos
-[00:33:50] [Server thread/INFO]: [Not Secure] <JEspantaViejas> trejos
-[00:33:53] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to IlarilarieOhOHIO]
-[00:34:00] [Server thread/INFO]: [Not Secure] <xHARITOLx> yaaa
-[00:34:03] [Server thread/INFO]: xHARITOLx has made the advancement [The City at the End of the Game]
-[00:34:08] [Server thread/INFO]: [Not Secure] <JEspantaViejas> 1020 60 1651
-[00:34:39] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
-[00:34:49] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to pipi_caliente69]
-[00:35:32] [Server thread/INFO]: [Trejos1111: Teleported IlarilarieOhOHIO to Trejos1111]
-[00:36:05] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> Gracias trejos
-[00:36:15] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to pipi_caliente69]
-[00:36:16] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
-[00:37:48] [Server thread/WARN]: JEspantaViejas moved too quickly! -9.503233954097254,-0.35738605968391823,3.464844642534672
-[00:37:48] [Server thread/WARN]: Dezar68 moved too quickly! 8.863733568424323,4.001335979112149,-3.334820597203702
-[00:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[00:41:02] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[00:41:02] [Server thread/INFO]: JEspantaViejas left the game
-[00:41:02] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[00:42:12] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:47825] logged in with entity id 387987 at (454.69999998807907, 61.0, 2500.699999988079)
-[00:42:12] [Server thread/INFO]: JEspantaViejas joined the game
-[00:42:13] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
-[00:42:13] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[00:42:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:42:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:42:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[00:42:15] [Server thread/INFO]: [Trejos1111: Teleported JEspantaViejas to IlarilarieOhOHIO]
-[00:42:21] [Server thread/INFO]: [Not Secure] <JEspantaViejas> hola
-[00:43:09] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[00:43:09] [Server thread/INFO]: JEspantaViejas left the game
-[00:43:09] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[00:43:39] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:41381] logged in with entity id 388979 at (1684.1971447548792, 58.0, 388.365151845098)
-[00:43:39] [Server thread/INFO]: JEspantaViejas joined the game
-[00:43:40] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
-[00:43:40] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[00:43:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:43:41] [Server thread/INFO]: [Trejos1111: Teleported JEspantaViejas to IlarilarieOhOHIO]
-[00:43:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[00:43:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[00:44:14] [Server thread/INFO]: [Not Secure] <JEspantaViejas> hey santi
-[00:44:17] [Server thread/INFO]: [Not Secure] <JEspantaViejas> va donde cogemos
-[00:44:31] [Server thread/INFO]: [Not Secure] <Trejos1111> coja corius fuit
-[00:44:44] [Server thread/INFO]: [Not Secure] <Trejos1111> por ya no mas ok?
-[00:45:06] [Server thread/INFO]: Dezar68 lost connection: Disconnected
-[00:45:06] [Server thread/INFO]: Dezar68 left the game
-[00:45:06] [Server thread/INFO]: [voicechat] Disconnecting client Dezar68
-[00:45:50] [Server thread/INFO]: Trejos1111 has made the advancement [The City at the End of the Game]
-[00:46:06] [Server thread/INFO]: pipi_caliente69 has made the advancement [The City at the End of the Game]
-[00:46:38] [Server thread/INFO]: [Not Secure] <JEspantaViejas> bloques
-[00:46:47] [Server thread/INFO]: [Not Secure] <JEspantaViejas> yo tengo sigilo rapido}
-[00:48:34] [Server thread/INFO]: Trejos1111 has completed the challenge [Great View From Up Here]
-[00:49:16] [Server thread/WARN]: Trejos1111 moved too quickly! -7.645840934201715,-8.0,-3.81592393373262
-[00:50:56] [Server thread/INFO]: [Not Secure] <JEspantaViejas> voy a comer
-[00:51:03] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> bue
-[00:51:58] [Server thread/INFO]: IlarilarieOhOHIO lost connection: Disconnected
-[00:51:58] [Server thread/INFO]: IlarilarieOhOHIO left the game
-[00:51:58] [Server thread/INFO]: [voicechat] Disconnecting client IlarilarieOhOHIO
-[00:55:11] [Server thread/INFO]: Dezar68[/127.129.89.92:42509] logged in with entity id 394519 at (1650.707178736811, 60.0, -6.309669070022945)
-[00:55:11] [Server thread/INFO]: Dezar68 joined the game
-[00:55:12] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
-[00:55:12] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
-[00:55:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
-[00:55:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
-[00:55:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
-[00:58:07] [Server thread/INFO]: IlarilarieOhOHIO[/127.57.143.3:42247] logged in with entity id 396398 at (2081.863429575946, 57.0, -929.6495132122812)
-[00:58:07] [Server thread/INFO]: IlarilarieOhOHIO joined the game
-[00:58:07] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
-[00:58:07] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
-[00:58:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
-[00:58:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
-[00:58:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
-[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
-[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
-[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
-[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
-[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
-[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
-[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
-[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
-[01:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
-[01:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
-[01:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
-[01:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
-[01:01:15] [Server thread/INFO]: Dezar68 has made the advancement [The City at the End of the Game]
-[01:01:58] [Server thread/INFO]: xHARITOLx is incapacitated!
-[01:01:59] [Server thread/INFO]: IlarilarieOhOHIO has completed the challenge [Great View From Up Here]
-[01:02:10] [Server thread/INFO]: xHARITOLx fell out of the world
-[01:02:29] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
-[01:02:49] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[01:02:52] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[01:02:53] [Server thread/INFO]: xHARITOLx is incapacitated!
-[01:03:02] [Server thread/INFO]: xHARITOLx has been revived!
-[01:03:15] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
-[01:03:21] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to pipi_caliente69]
-[01:03:34] [Server thread/INFO]: xHARITOLx is incapacitated!
-[01:03:40] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[01:03:49] [Server thread/INFO]: xHARITOLx has been revived!
-[01:05:31] [Server thread/INFO]: [Not Secure] <JEspantaViejas> f harold
-[01:06:15] [Server thread/INFO]: pipi_caliente69 has reached the goal [Sky's the Limit]
-[01:06:19] [Server thread/INFO]: [Not Secure] <JEspantaViejas> uyuy
-[01:07:03] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! 1.0813783601729483,-2.0,-9.951488584384151
-[01:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3102ms or 62 ticks behind
-[01:10:09] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[01:10:09] [Server thread/INFO]: JEspantaViejas left the game
-[01:10:09] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[01:11:21] [Server thread/INFO]: [Not Secure] <xHARITOLx> es que es mujer
-[01:14:26] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:47559] logged in with entity id 411324 at (3061.845608119986, 58.0, -731.5026186263455)
-[01:14:26] [Server thread/INFO]: JEspantaViejas joined the game
-[01:14:28] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
-[01:14:28] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[01:14:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[01:14:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[01:14:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[01:14:58] [Server thread/INFO]: [Not Secure] <JEspantaViejas> QUIENES YA TIENE ELYTRA ?
-[01:15:05] [Server thread/INFO]: [Not Secure] <Trejos1111> yo
-[01:15:05] [Server thread/INFO]: [Not Secure] <pipi_caliente69> yo
-[01:15:06] [Server thread/INFO]: [Not Secure] <xHARITOLx> yotas
-[01:18:21] [Server thread/INFO]: [Not Secure] <xHARITOLx> siuuuuuu
-[01:18:24] [Server thread/INFO]: [Not Secure] <xHARITOLx> escontre barcoooooo
-[01:19:12] [Server thread/INFO]: xHARITOLx has reached the goal [Sky's the Limit]
-[01:19:48] [Server thread/WARN]: pipi_caliente69 moved too quickly! -11.384728192731927,-1.3524761087691104,13.946683253380144
-[01:19:48] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! -5.919182065822497,0.2046003784434518,-8.233898310442328
-[01:20:56] [Server thread/INFO]: Trejos1111 is incapacitated!
-[01:21:14] [Server thread/INFO]: Trejos1111 has been revived!
-[01:21:52] [Server thread/WARN]: JEspantaViejas moved too quickly! 5.3286264448802285,6.596120909928082,5.485632220833168
-[01:22:20] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[01:22:20] [Server thread/INFO]: JEspantaViejas left the game
-[01:22:20] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[01:23:11] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:57525] logged in with entity id 423852 at (4025.299796572094, 61.0, -1467.8651968331153)
-[01:23:11] [Server thread/INFO]: JEspantaViejas joined the game
-[01:23:12] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
-[01:23:12] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[01:23:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[01:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[01:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[01:24:18] [Server thread/INFO]: IlarilarieOhOHIO has reached the goal [Sky's the Limit]
-[01:24:52] [Server thread/INFO]: [Not Secure] <JEspantaViejas> quien ya tiene elytra ?
-[01:25:06] [Server thread/INFO]: [Not Secure] <xHARITOLx> que yo
-[01:25:07] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[01:25:07] [Server thread/INFO]: JEspantaViejas left the game
-[01:25:07] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[01:27:05] [Server thread/INFO]: Trejos1111 has reached the goal [Sky's the Limit]
-[01:27:28] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:36449] logged in with entity id 429035 at (4431.008833695864, 53.54481405553307, -1537.5543778325723)
-[01:27:28] [Server thread/INFO]: JEspantaViejas joined the game
-[01:27:28] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
-[01:27:28] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[01:27:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[01:27:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[01:27:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[01:28:47] [Server thread/INFO]: Dezar68 has completed the challenge [Great View From Up Here]
-[01:28:54] [Server thread/WARN]: IlarilarieOhOHIO moved wrongly!
-[01:29:51] [Server thread/INFO]: Dezar68 has reached the goal [Sky's the Limit]
-[01:29:56] [Server thread/INFO]: [Not Secure] <JEspantaViejas> hp
-[01:30:01] [Server thread/INFO]: Dezar68 has made the advancement [Local Brewery]
-[01:30:03] [Server thread/INFO]: [Not Secure] <JEspantaViejas> y yo todabia no encuentro
-[01:31:14] [Server thread/WARN]: pipi_caliente69 moved wrongly!
-[01:33:45] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Local Brewery]
-[01:35:36] [Server thread/WARN]: IlarilarieOhOHIO moved wrongly!
-[01:42:09] [Server thread/WARN]: Trejos1111 moved wrongly!
-[01:43:49] [Server thread/INFO]: JEspantaViejas has reached the goal [Sky's the Limit]
-[01:44:01] [Server thread/INFO]: [Not Secure] <JEspantaViejas> porfin
-[01:44:01] [Server thread/INFO]: [Not Secure] <Dezar68> epa
-[01:44:06] [Server thread/WARN]: IlarilarieOhOHIO moved too quickly! 0.29256516713940073,-1.0818692593574042,17.637489849381836
-[01:44:06] [Server thread/WARN]: pipi_caliente69 moved too quickly! -14.03465872572906,-2.9136983884136214,-10.86013925773841
-[01:44:06] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> epa
-[01:44:06] [Server thread/WARN]: JEspantaViejas moved too quickly! 0.7286350191652673,3.5894160429820943,-9.599829818261242
-[01:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[01:44:11] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> ya le estabamos buscando XD
-[01:44:18] [Server thread/INFO]: [Not Secure] <pipi_caliente69> pene
-[01:44:19] [Server thread/INFO]: [Not Secure] <Dezar68> sikas
-[01:44:19] [Server thread/INFO]: [Not Secure] <JEspantaViejas> busquensela
-[01:44:22] [Server thread/INFO]: [Not Secure] <JEspantaViejas> a pene
-[01:44:26] [Server thread/INFO]: [Not Secure] <Dezar68> ya
-[01:44:26] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> YA
-[01:44:32] [Server thread/INFO]: [Not Secure] <JEspantaViejas> chiquito
-[01:44:35] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> tenemos 5
-[01:44:42] [Server thread/INFO]: [Not Secure] <JEspantaViejas> como
-[01:44:45] [Server thread/INFO]: [Not Secure] <JEspantaViejas> yo solo tengo 1
-[01:45:11] [Server thread/WARN]: pipi_caliente69 moved too quickly! 11.628846234855246,2.486404810103096,-13.739980016658592
-[01:45:11] [Server thread/WARN]: xHARITOLx moved too quickly! 17.12997644859024,5.824488387978505,0.736864407930625
-[01:45:15] [Server thread/INFO]: [Not Secure] <JEspantaViejas> lo hize
-[01:45:29] [Server thread/INFO]: [Not Secure] <xHARITOLx> uy sonas
-[01:46:58] [Server thread/WARN]: Trejos1111 moved wrongly!
-[01:47:06] [Server thread/INFO]: [Not Secure] <JEspantaViejas> y el de reparacion ?
-[01:47:11] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> busquelo
-[01:47:12] [Server thread/INFO]: [Not Secure] <Dezar68> ahi esta
-[01:49:33] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[01:49:33] [Server thread/INFO]: JEspantaViejas left the game
-[01:49:33] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[01:50:19] [Server thread/INFO]: JEspantaViejas[/127.139.45.34:46619] logged in with entity id 476758 at (731.900306760574, 66.5, -268.50440025647526)
-[01:50:19] [Server thread/INFO]: JEspantaViejas joined the game
-[01:50:20] [Server thread/INFO]: [voicechat] Received secret request of JEspantaViejas (18)
-[01:50:20] [Server thread/INFO]: [voicechat] Sent secret to JEspantaViejas
-[01:50:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[01:50:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2f54cbf8-3649-31fa-8ab2-8b5666c637c1
-[01:50:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player JEspantaViejas (2f54cbf8-3649-31fa-8ab2-8b5666c637c1) successfully connected to voice chat
-[01:51:05] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
-[01:51:05] [Server thread/INFO]: JEspantaViejas left the game
-[01:51:05] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
-[01:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
-[02:08:40] [Server thread/WARN]: pipi_caliente69 moved too quickly! 16.752189816858134,-0.7256835070751322,7.840010596013144
-[02:08:40] [Server thread/WARN]: Trejos1111 moved too quickly! 16.662029902930556,7.037107264850434,3.836770796974065
-[02:10:15] [Server thread/INFO]: Dezar68 has made the advancement [Hidden in the Depths]
-[02:10:54] [Server thread/WARN]: Trejos1111 moved wrongly!
-[02:11:03] [Server thread/INFO]: Trejos1111 is incapacitated!
-[02:11:11] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> buena trejos
-[02:11:43] [Server thread/INFO]: Trejos1111 has been revived!
-[02:13:48] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Surge Protector]
-[02:14:43] [Server thread/INFO]: [Not Secure] <xHARITOLx> wow de granja
-[02:16:32] [Server thread/WARN]: xHARITOLx moved too quickly! 4.705693080180367,-105.0,-5.097318774666519
-[02:17:17] [Server thread/INFO]: Trejos1111 is incapacitated!
-[02:17:35] [Server thread/INFO]: Trejos1111 has been revived!
-[02:17:42] [Server thread/INFO]: xHARITOLx is incapacitated!
-[02:17:52] [Server thread/INFO]: xHARITOLx has been revived!
-[02:17:53] [Server thread/INFO]: xHARITOLx is incapacitated!
-[02:18:02] [Server thread/INFO]: xHARITOLx has been revived!
-[02:20:55] [Server thread/INFO]: Trejos1111 is incapacitated!
-[02:21:10] [Server thread/INFO]: Trejos1111 has been revived!
-[02:21:12] [Server thread/INFO]: xHARITOLx is incapacitated!
-[02:21:46] [Server thread/INFO]: xHARITOLx has been revived!
-[02:23:07] [Server thread/INFO]: xHARITOLx is incapacitated!
-[02:23:41] [Server thread/INFO]: xHARITOLx has been revived!
-[02:24:20] [Server thread/INFO]: xHARITOLx is incapacitated!
-[02:25:06] [Server thread/INFO]: xHARITOLx has been revived!
-[02:25:39] [Server thread/WARN]: xHARITOLx moved wrongly!
-[02:26:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02:26:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[02:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[02:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[02:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[02:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2545ms or 50 ticks behind
-[02:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
-[02:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
-[02:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[02:30:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[02:31:38] [Server thread/INFO]: Trejos1111 is incapacitated!
-[02:31:56] [Server thread/INFO]: Trejos1111 has been revived!
-[02:32:02] [Server thread/INFO]: xHARITOLx is incapacitated!
-[02:32:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
-[02:32:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
-[02:32:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1fd35de1-ffd5-3cac-beba-c36100fd459f timed out
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player pipi_caliente69
-[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to pipi_caliente69
-[02:32:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
-[02:32:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
-[02:32:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
-[02:33:03] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
-[02:33:03] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
-[02:33:26] [Server thread/INFO]: xHARITOLx was slain by Trejos1111 using [s🗡ANIQUILADORA🗡s] and bled out
-[02:33:36] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/./crash-reports/crash-2025-06-06_02.33.36-server.txt
+[02:36:33] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[02:36:34] [main/INFO]: Loading 97 mods:
+	- architectury 11.1.17
+	- artifacts 10.0.11
+	   |-- cardinal-components-base 5.4.0
+	   |-- cardinal-components-entity 5.4.0
+	   |-- expandability 10.0.1
+	   \-- step-height-entity-attribute 1.2.0
+	- cloth-config 13.0.138
+	   \-- cloth-basic-math 0.6.1
+	- easyanvils 20.4.6
+	- easymagic 20.4.0
+	- fabric-api 0.97.2+1.20.4
+	   |-- fabric-api-base 0.4.37+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.50+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.17+78d798af4f
+	   |-- fabric-block-api-v1 1.0.17+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.5+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.47+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.8+78d798af4f
+	   |-- fabric-command-api-v1 1.2.42+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.21+78d798af4f
+	   |-- fabric-commands-v0 0.2.59+df3654b34f
+	   |-- fabric-containers-v0 0.1.88+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.16+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.11+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.24+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.5+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.6+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.63+6605d1a84f
+	   |-- fabric-entity-events-v1 1.6.2+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.2+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.75+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.47+78d798af4f
+	   |-- fabric-item-api-v1 2.3.0+bcdd12964f
+	   |-- fabric-item-group-api-v1 4.0.27+ee30b13a4f
+	   |-- fabric-key-binding-api-v1 1.0.42+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.40+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.1+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.10+78d798af4f
+	   |-- fabric-message-api-v1 6.0.6+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.66+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.9+78d798af4f
+	   |-- fabric-models-v0 0.4.8+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.9+6abb6a4b4f
+	   |-- fabric-object-builder-api-v1 13.1.0+dba1195c4f
+	   |-- fabric-particles-v1 1.1.8+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.22+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.21+ee30b13a4f
+	   |-- fabric-renderer-api-v1 3.2.5+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.6+d331d3144f
+	   |-- fabric-renderer-registries-v1 3.2.54+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.43+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.2+e761c6694f
+	   |-- fabric-rendering-v0 1.1.57+df3654b34f
+	   |-- fabric-rendering-v1 3.2.1+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.15+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.21+ee30b13a4f
+	   |-- fabric-screen-api-v1 2.0.18+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.57+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.18+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.12+90f2d7b14f
+	   \-- fabric-transitive-access-wideners-v1 5.0.15+78d798af4f
+	- fabric-permissions-api-v0 0.3.1
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- forgeconfigapiport 20.4.3
+	   |-- com_electronwill_night-config_core 3.6.6
+	   \-- com_electronwill_night-config_toml 3.6.6
+	- huskhomes 4.6.2
+	   |-- adventure-platform-fabric 5.12.0
+	   |    |-- net_kyori_adventure-api 4.16.0
+	   |    |-- net_kyori_adventure-key 4.16.0
+	   |    |-- net_kyori_adventure-platform-api 4.3.2
+	   |    |-- net_kyori_adventure-text-logger-slf4j 4.16.0
+	   |    |-- net_kyori_adventure-text-minimessage 4.16.0
+	   |    |-- net_kyori_adventure-text-serializer-ansi 4.16.0
+	   |    |-- net_kyori_adventure-text-serializer-gson 4.16.0
+	   |    |-- net_kyori_adventure-text-serializer-json 4.16.0
+	   |    |-- net_kyori_adventure-text-serializer-plain 4.16.0
+	   |    |-- net_kyori_ansi 1.0.3
+	   |    |-- net_kyori_examination-api 1.3.0
+	   |    |-- net_kyori_examination-string 1.3.0
+	   |    \-- net_kyori_option 1.0.0
+	   |-- com_h2database_h2 2.2.220
+	   |-- com_mysql_mysql-connector-j 8.3.0
+	   |-- org_apache_commons_commons-pool2 2.12.0
+	   |-- org_mariadb_jdbc_mariadb-java-client 3.3.3
+	   |-- org_xerial_sqlite-jdbc 3.45.2.0
+	   |-- placeholder-api 2.3.0+1.20.3
+	   \-- redis_clients_jedis 5.1.2
+	- incapacitated 1.6.1
+	   |-- cardinal-components-base 5.4.0
+	   \-- cardinal-components-entity 5.4.0
+	- java 21
+	- minecraft 1.20.4
+	- mr_dungeons_andtaverns 3.1.1
+	- puzzleslib 20.4.52
+	- skinrestorer 2.3.2+1.20.3-fabric
+	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
+	- trinkets 3.8.1
+	   |-- cardinal-components-base 5.4.0
+	   \-- cardinal-components-entity 5.4.0
+	- universal-graves 3.2.2+1.20.4
+	   |-- common-protection-api 1.0.0
+	   |-- placeholder-api 2.3.0+1.20.3
+	   |-- polymer-core 0.7.7+1.20.4
+	   |    |-- polymer-networking 0.7.7+1.20.4
+	   |    |    \-- polymer-common 0.7.7+1.20.4
+	   |    |         \-- packet_tweaker 0.5.1+1.20.4
+	   |    \-- polymer-registry-sync-manipulator 0.7.7+1.20.4
+	   |-- polymer-resource-pack 0.7.7+1.20.4
+	   |    \-- polymer-common 0.7.7+1.20.4
+	   |         \-- packet_tweaker 0.5.1+1.20.4
+	   |-- polymer-virtual-entity 0.7.7+1.20.4
+	   |    \-- polymer-common 0.7.7+1.20.4
+	   |         \-- packet_tweaker 0.5.1+1.20.4
+	   |-- predicate-api 0.3.0+1.20.2
+	   |-- server_translations_api 2.2.0+1.20.3-rc1
+	   \-- sgui 1.4.2+1.20.4
+	- voicechat 1.20.4-2.5.22
+	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
+[02:36:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:36:34] [main/INFO]: Compatibility level set to JAVA_17
+[02:36:34] [main/WARN]: Reference map 'EasyMagic-Fabric-refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:36:34] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:36:35] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[02:36:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[02:36:43] [main/ERROR]: No data fixer registered for artifacts:mimic
+[02:36:43] [main/INFO]: Constructing common components for easyanvils:main
+[02:36:43] [main/INFO]: Loading common config for easyanvils
+[02:36:43] [Thread-2/INFO]: Reloading common config for easyanvils
+[02:36:43] [Thread-2/INFO]: Reloading common config for easyanvils
+[02:36:43] [main/INFO]: Constructing common components for easymagic:main
+[02:36:43] [main/INFO]: ExpandAbility here, who dis?
+[02:36:43] [main/INFO]: Constructing common components for puzzleslib:main
+[02:36:43] [main/INFO]: [voicechat] Compatibility version 18
+[02:36:43] [main/INFO]: [voicechat] Loading plugins
+[02:36:43] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:36:43] [main/INFO]: [voicechat] Initializing plugins
+[02:36:43] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:36:43] [main/INFO]: Initializing plugin config & locale files...
+[02:36:44] [main/INFO]: Successfully initialized plugin config & locale files
+[02:36:44] [main/INFO]: Initializing commands...
+[02:36:44] [main/INFO]: Successfully initialized commands
+[02:36:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:36:46] [main/INFO]: Loaded 7 recipes
+[02:36:46] [main/INFO]: Loaded 1294 advancements
+[02:36:46] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[02:36:47] [main/INFO]: Applied 53 biome modifications to 53 of 64 new biomes in 9.320 ms
+[02:36:47] [Server thread/INFO]: Loading server config for easyanvils
+[02:36:47] [Thread-2/INFO]: Reloading server config for easyanvils
+[02:36:47] [Server thread/INFO]: Loading server config for easymagic
+[02:36:47] [Thread-2/INFO]: Reloading server config for easyanvils
+[02:36:47] [Server thread/INFO]: [STDERR]: java.io.IOException: Is a directory
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read0(Native Method)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read(UnixFileDispatcherImpl.java:51)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:340)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:306)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:283)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:234)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:74)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.read(Files.java:3237)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3359)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3318)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.lambda$loadConfig$1(ConfigManager.java:61)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.loadConfig(ConfigManager.java:58)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.GravesMod.lambda$onInitialize$1(GravesMod.java:97)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$zkf000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:2909)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:650)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270)
+[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[02:36:47] [Server thread/INFO]: Initializing SQLite database connection...
+[02:36:47] [Server thread/INFO]: Successfully initialized SQLite database connection
+[02:36:47] [Server thread/INFO]: Initializing hooks...
+[02:36:47] [Server thread/INFO]: Registered 1 mod hooks: Fabric PlaceholderAPI
+[02:36:47] [Server thread/INFO]: Successfully initialized hooks
+[02:36:47] [Server thread/INFO]: Initializing events...
+[02:36:47] [Server thread/INFO]: Successfully initialized events
+[02:36:47] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[02:36:47] [Server thread/INFO]: Loading properties
+[02:36:47] [Server thread/INFO]: Default game type: SURVIVAL
+[02:36:47] [Server thread/INFO]: Generating keypair
+[02:36:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:36:47] [ForkJoinPool.commonPool-worker-1/WARN]: A new version of HuskHomes is available: v4.9.6 (running v4.6.2)
+[02:36:47] [Server thread/INFO]: Using epoll channel type
+[02:36:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:36:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:36:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:36:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:36:47] [Server thread/INFO]: Preparing level "world"
+[02:36:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:36:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:56] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[02:36:57] [Worker-Main-1/INFO]: Preparing spawn area: 77%
+[02:36:57] [Server thread/INFO]: Time elapsed: 5153 ms
+[02:36:57] [Server thread/INFO]: Done (9.520s)! For help, type "help"
+[02:36:57] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:36:57] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'already-cms.gl.at.ply.gg', binding to wildcard IP instead
+[02:36:57] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at already-cms.gl.at.ply.gg:3486
+[02:37:04] [Server thread/INFO]: xHARITOLx[/127.247.36.85:46671] logged in with entity id 27 at (-340.44959256540693, 49.0, -994.2375000119209)
+[02:37:04] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[02:37:04] [Server thread/INFO]: xHARITOLx joined the game
+[02:37:05] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
+[02:37:05] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
+[02:37:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[02:37:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[02:37:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[02:37:07] [Server thread/INFO]: Dezar68[/127.129.89.92:49711] logged in with entity id 64 at (403.48070461265684, 13.0, -294.88293138901065)
+[02:37:07] [Server thread/INFO]: Dezar68 joined the game
+[02:37:08] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[02:37:08] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[02:37:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[02:37:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[02:37:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[02:37:10] [Server thread/INFO]: pipi_caliente69[/127.214.193.124:48907] logged in with entity id 955 at (88.6520992763395, 1.0, -99.72876536822551)
+[02:37:10] [Server thread/INFO]: pipi_caliente69 joined the game
+[02:37:10] [Server thread/INFO]: [voicechat] Received secret request of pipi_caliente69 (18)
+[02:37:10] [Server thread/INFO]: [voicechat] Sent secret to pipi_caliente69
+[02:37:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[02:37:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
+[02:37:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
+[02:37:13] [Server thread/INFO]: Trejos1111[/127.60.167.187:55619] logged in with entity id 1059 at (-339.33065709147814, 49.43152384527073, -993.5892460848877)
+[02:37:13] [Server thread/INFO]: Trejos1111 joined the game
+[02:37:13] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[02:37:13] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[02:37:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[02:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[02:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[02:37:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02:37:22] [Server thread/INFO]: IlarilarieOhOHIO[/127.57.143.3:39865] logged in with entity id 1662 at (728.6999999880791, 192.0, -206.10624998807907)
+[02:37:22] [Server thread/INFO]: IlarilarieOhOHIO joined the game
+[02:37:24] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+[02:37:24] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[02:37:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[02:37:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[02:37:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[02:37:30] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
+[02:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10477ms or 209 ticks behind
+[02:37:45] [Server thread/INFO]: [Not Secure] <pipi_caliente69> grupo
+[02:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[02:38:45] [Server thread/INFO]: xHARITOLx is incapacitated!
+[02:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02:39:15] [Server thread/INFO]: xHARITOLx has been revived!
+[02:40:28] [Server thread/INFO]: [Not Secure] <xHARITOLx> yaaa
+[02:40:57] [Server thread/INFO]: xHARITOLx lost connection: Disconnected
+[02:40:57] [Server thread/INFO]: xHARITOLx left the game
+[02:40:57] [Server thread/INFO]: [voicechat] Disconnecting client xHARITOLx
+[02:41:07] [Server thread/INFO]: xHARITOLx[/127.247.36.85:54831] logged in with entity id 10028 at (-437.69834120221316, 64.0, -921.1854950918557)
+[02:41:07] [Server thread/INFO]: xHARITOLx joined the game
+[02:41:08] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
+[02:41:08] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
+[02:41:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[02:41:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[02:41:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[02:41:32] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
+[02:42:03] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
+[02:42:35] [Server thread/INFO]: [Trejos1111: Applied enchantment Protection II to xHARITOLx's item]
+[02:42:45] [Server thread/INFO]: [Trejos1111: Applied enchantment Protection II to xHARITOLx's item]
+[02:42:52] [Server thread/INFO]: [Trejos1111: Applied enchantment Protection IV to xHARITOLx's item]
+[02:43:13] [Server thread/INFO]: [Trejos1111: Applied enchantment Swift Sneak II to xHARITOLx's item]
+[02:43:27] [Server thread/INFO]: [Trejos1111: Applied enchantment Protection II to xHARITOLx's item]
+[02:44:34] [Server thread/INFO]: [Trejos1111: Applied enchantment Unbreaking III to xHARITOLx's item]
+[02:44:59] [Server thread/INFO]: [Trejos1111: Applied enchantment Unbreaking III to Trejos1111's item]
+[02:45:06] [Server thread/INFO]: [Trejos1111: Applied enchantment Unbreaking III to Trejos1111's item]
+[02:45:11] [Server thread/INFO]: [Trejos1111: Applied enchantment Unbreaking III to Trejos1111's item]
+[02:45:23] [Server thread/INFO]: [Trejos1111: Applied enchantment Mending to Trejos1111's item]
+[02:45:29] [Server thread/INFO]: [Trejos1111: Applied enchantment Mending to Trejos1111's item]
+[02:45:32] [Server thread/INFO]: [Trejos1111: Applied enchantment Mending to Trejos1111's item]
+[02:45:35] [Server thread/INFO]: [Trejos1111: Applied enchantment Mending to Trejos1111's item]
