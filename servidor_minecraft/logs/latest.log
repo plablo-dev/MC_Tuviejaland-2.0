@@ -273,3 +273,10 @@
 [19:25:50] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
 [19:25:50] [Server thread/INFO]: Trejos1111 left the game
 [19:25:50] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[19:37:05] [Server thread/INFO]: Trejos1111[/127.60.167.187:40839] logged in with entity id 117615 at (-1766.8215488414585, 118.5, -4662.550894421933)
+[19:37:05] [Server thread/INFO]: Trejos1111 joined the game
+[19:37:06] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
+[19:37:06] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
+[19:37:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
+[19:37:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
+[19:37:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
