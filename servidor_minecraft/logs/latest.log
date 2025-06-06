@@ -393,3 +393,6 @@
 [01:51:05] [Server thread/INFO]: JEspantaViejas lost connection: Disconnected
 [01:51:05] [Server thread/INFO]: JEspantaViejas left the game
 [01:51:05] [Server thread/INFO]: [voicechat] Disconnecting client JEspantaViejas
+[01:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
+[02:08:40] [Server thread/WARN]: pipi_caliente69 moved too quickly! 16.752189816858134,-0.7256835070751322,7.840010596013144
+[02:08:40] [Server thread/WARN]: Trejos1111 moved too quickly! 16.662029902930556,7.037107264850434,3.836770796974065
