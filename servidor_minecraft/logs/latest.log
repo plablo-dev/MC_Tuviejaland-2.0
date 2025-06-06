@@ -251,3 +251,43 @@
 [00:51:58] [Server thread/INFO]: IlarilarieOhOHIO lost connection: Disconnected
 [00:51:58] [Server thread/INFO]: IlarilarieOhOHIO left the game
 [00:51:58] [Server thread/INFO]: [voicechat] Disconnecting client IlarilarieOhOHIO
+[00:55:11] [Server thread/INFO]: Dezar68[/127.129.89.92:42509] logged in with entity id 394519 at (1650.707178736811, 60.0, -6.309669070022945)
+[00:55:11] [Server thread/INFO]: Dezar68 joined the game
+[00:55:12] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[00:55:12] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[00:55:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[00:55:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[00:55:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[00:58:07] [Server thread/INFO]: IlarilarieOhOHIO[/127.57.143.3:42247] logged in with entity id 396398 at (2081.863429575946, 57.0, -929.6495132122812)
+[00:58:07] [Server thread/INFO]: IlarilarieOhOHIO joined the game
+[00:58:07] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+[00:58:07] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[00:58:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[00:58:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[00:58:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:00:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[01:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[01:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[01:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[01:00:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[01:01:15] [Server thread/INFO]: Dezar68 has made the advancement [The City at the End of the Game]
+[01:01:58] [Server thread/INFO]: xHARITOLx is incapacitated!
+[01:01:59] [Server thread/INFO]: IlarilarieOhOHIO has completed the challenge [Great View From Up Here]
+[01:02:10] [Server thread/INFO]: xHARITOLx fell out of the world
+[01:02:29] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
+[01:02:49] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
+[01:02:52] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
+[01:02:53] [Server thread/INFO]: xHARITOLx is incapacitated!
+[01:03:02] [Server thread/INFO]: xHARITOLx has been revived!
+[01:03:15] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
+[01:03:21] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to pipi_caliente69]
+[01:03:34] [Server thread/INFO]: xHARITOLx is incapacitated!
+[01:03:40] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
+[01:03:49] [Server thread/INFO]: xHARITOLx has been revived!

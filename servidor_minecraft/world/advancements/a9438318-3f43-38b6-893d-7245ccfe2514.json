@@ -461,6 +461,7 @@
       "suspicious_stew": "2025-06-02 21:15:29 +0000",
       "cooked_mutton": "2025-05-29 23:35:21 +0000",
       "cooked_beef": "2025-05-30 01:16:02 +0000",
+      "chorus_fruit": "2025-06-06 00:49:16 +0000",
       "baked_potato": "2025-06-02 16:27:41 +0000",
       "pumpkin_pie": "2025-06-01 01:08:19 +0000",
       "golden_carrot": "2025-06-02 16:09:19 +0000"
@@ -627,6 +628,7 @@
       "minecraft:piglin": "2025-05-31 21:02:32 +0000",
       "minecraft:enderman": "2025-06-01 01:32:36 +0000",
       "minecraft:stray": "2025-06-02 23:31:20 +0000",
+      "minecraft:endermite": "2025-06-06 00:49:21 +0000",
       "minecraft:vex": "2025-05-30 02:43:51 +0000",
       "minecraft:zombie": "2025-05-29 23:48:55 +0000",
       "minecraft:drowned": "2025-06-02 05:46:44 +0000",
@@ -4395,6 +4397,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-06 00:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-06 00:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-06 00:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-06-06 00:23:07 +0000"
@@ -4404,6 +4424,12 @@
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-06-06 00:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-06 00:50:29 +0000"
     },
     "done": true
   },
@@ -4437,6 +4463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-06 00:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-06-06 00:17:41 +0000"
@@ -4446,6 +4478,12 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-06-06 00:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-06 00:50:29 +0000"
     },
     "done": true
   },
