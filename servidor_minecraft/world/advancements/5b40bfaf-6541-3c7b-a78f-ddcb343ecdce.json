@@ -155,6 +155,7 @@
       "cooked_cod": "2025-06-03 19:07:56 +0000",
       "cooked_beef": "2025-05-30 19:03:53 +0000",
       "baked_potato": "2025-05-30 23:38:22 +0000",
+      "pumpkin_pie": "2025-06-06 04:27:41 +0000",
       "golden_carrot": "2025-06-02 19:45:00 +0000"
     },
     "done": false
@@ -4061,9 +4062,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-06 04:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-06 04:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-06 04:23:35 +0000"
     },
     "done": true
   },
@@ -4079,9 +4092,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-06 04:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2025-06-06 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-06 04:23:35 +0000"
     },
     "done": true
   },
@@ -4112,6 +4137,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2025-06-06 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-06 04:29:45 +0000"
     },
     "done": true
   },
@@ -4163,6 +4194,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-06 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-06 04:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_cyan_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-06 04:09:11 +0000"
@@ -4184,6 +4227,12 @@
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-06 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-06-06 04:23:34 +0000"
     },
     "done": true
   },
