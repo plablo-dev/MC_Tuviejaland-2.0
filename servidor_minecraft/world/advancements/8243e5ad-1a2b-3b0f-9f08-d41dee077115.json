@@ -3507,5 +3507,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-06 02:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-06 02:48:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
