@@ -4350,18 +4350,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-06 20:20:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-06-06 20:19:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-06-06 20:17:37 +0000"
@@ -4374,15 +4362,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+  "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
-      "has_ward_armor_trim_smithing_template": "2025-06-06 20:20:13 +0000"
+      "has_disc_fragment_5": "2025-06-06 20:19:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 20:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-06 20:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-06-06 20:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-06-06 20:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-06 20:42:35 +0000"
     },
     "done": true
   },

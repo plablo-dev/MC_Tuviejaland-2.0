@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-06 21:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-06 21:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-06-06 21:08:28 +0000",
+      "minecraft:savanna": "2025-06-06 21:07:12 +0000",
+      "minecraft:plains": "2025-06-06 21:08:55 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3700
+}
