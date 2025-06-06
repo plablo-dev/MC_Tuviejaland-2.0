@@ -3170,5 +3170,17 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-06 00:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-06 00:17:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
