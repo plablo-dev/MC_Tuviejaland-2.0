@@ -2971,5 +2971,17 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-06 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-06 04:40:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

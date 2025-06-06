@@ -407,3 +407,80 @@
 [04:31:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
 [04:31:53] [Server thread/INFO]: Dezar68 has made the advancement [Mind Your Manors]
 [04:32:29] [Server thread/WARN]: xHARITOLx moved too quickly! -7.691706060403277,-3.4067397928620693,-15.680092975631553
+[04:33:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:33:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:33:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:33:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:33:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:33:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:33:19] [Server thread/INFO]: IlarilarieOhOHIO has completed the challenge [Cover Me in Debris]
+[04:34:02] [Server thread/INFO]: [Not Secure] <xHARITOLx> bravo
+[04:34:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:34:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:34:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:34:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:34:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:34:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:34:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[04:34:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[04:34:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[04:34:32] [Server thread/INFO]: Dezar68 lost connection: Timed out
+[04:34:32] [Server thread/INFO]: Dezar68 left the game
+[04:34:32] [Server thread/INFO]: [voicechat] Disconnecting client Dezar68
+[04:35:07] [Server thread/INFO]: Dezar68[/127.129.89.92:35317] logged in with entity id 51904 at (-1064.300000011921, 74.17675927506424, 5720.6662048764065)
+[04:35:07] [Server thread/INFO]: Dezar68 joined the game
+[04:35:08] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[04:35:08] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[04:35:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[04:35:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[04:35:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[04:35:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:35:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:35:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:35:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:36:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:36:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:37:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:37:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:37:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:37:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:37:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:37:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:38:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:38:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:38:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:38:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:38:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:38:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:39:01] [Server thread/INFO]: RICHARDESC207[/127.42.195.91:32775] logged in with entity id 54780 at (-357.6651434573243, 65.0, -984.9723125275057)
+[04:39:01] [Server thread/INFO]: RICHARDESC207 joined the game
+[04:39:02] [Server thread/INFO]: [voicechat] Received secret request of RICHARDESC207 (18)
+[04:39:02] [Server thread/INFO]: [voicechat] Sent secret to RICHARDESC207
+[04:39:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[04:39:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 28a214db-3f8e-3c87-a1f8-75c3acbe8cd0
+[04:39:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RICHARDESC207 (28a214db-3f8e-3c87-a1f8-75c3acbe8cd0) successfully connected to voice chat
+[04:39:11] [Server thread/INFO]: [Not Secure] <RICHARDESC207> haroldf
+[04:39:14] [Server thread/INFO]: [Not Secure] <xHARITOLx> ke
+[04:39:23] [Server thread/INFO]: [Not Secure] <RICHARDESC207> donde anda
+[04:39:26] [Server thread/INFO]: [Not Secure] <xHARITOLx> end
+[04:39:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:39:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:39:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:39:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[04:39:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[04:39:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[04:39:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[04:39:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:39:31] [Server thread/INFO]: [Not Secure] <RICHARDESC207> aiss
+[04:39:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[04:39:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[04:39:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:39:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:39:38] [Server thread/INFO]: [Not Secure] <xHARITOLx> pq?
+[04:39:40] [Server thread/INFO]: [Not Secure] <RICHARDESC207> como asi y que hace alla
+[04:39:53] [Server thread/INFO]: [Not Secure] <xHARITOLx> el evento fue hace como dos horas
+[04:40:08] [Server thread/INFO]: RICHARDESC207 has made the advancement [The End?]
+[04:41:16] [Server thread/INFO]: [Not Secure] <xHARITOLx> pongaselo ene l cinturon, le da doble salto
+[04:42:11] [Server thread/INFO]: [Not Secure] <xHARITOLx> pongaselo ene l cinturon, le da doble salto
+[04:42:49] [Server thread/WARN]: xHARITOLx moved too quickly! 0.5416024672128543,-10.567381295421288,0.4320408299234373
+[04:42:58] [Server thread/INFO]: xHARITOLx is incapacitated!

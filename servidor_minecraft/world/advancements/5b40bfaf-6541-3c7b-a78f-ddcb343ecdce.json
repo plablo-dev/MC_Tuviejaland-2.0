@@ -607,9 +607,11 @@
       "minecraft:magma_cube": "2025-06-05 04:28:13 +0000",
       "minecraft:spider": "2025-05-30 18:51:06 +0000",
       "minecraft:piglin_brute": "2025-06-05 04:08:30 +0000",
+      "minecraft:vex": "2025-06-06 04:36:26 +0000",
       "minecraft:zombie": "2025-05-30 18:51:48 +0000",
       "minecraft:creeper": "2025-05-30 18:53:05 +0000",
-      "minecraft:drowned": "2025-05-30 20:16:35 +0000"
+      "minecraft:drowned": "2025-05-30 20:16:35 +0000",
+      "minecraft:evoker": "2025-06-06 04:36:18 +0000"
     },
     "done": false
   },
@@ -3536,6 +3538,7 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-06-06 04:34:27 +0000",
       "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-06-06 00:10:44 +0000"
     },
     "done": false
@@ -4200,6 +4203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-06 04:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-06-06 04:23:34 +0000"
@@ -4209,6 +4218,12 @@
   "minecraft:recipes/building_blocks/dye_cyan_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-06 04:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-06 04:36:29 +0000"
     },
     "done": true
   },
@@ -4251,6 +4266,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-06-06 04:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-06 04:33:19 +0000"
     },
     "done": true
   },
