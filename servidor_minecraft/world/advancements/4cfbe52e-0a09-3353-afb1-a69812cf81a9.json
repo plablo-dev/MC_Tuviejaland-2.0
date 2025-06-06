@@ -468,6 +468,7 @@
       "minecraft:witch": "2025-06-03 03:53:55 +0000",
       "minecraft:wither_skeleton": "2025-06-01 02:01:59 +0000",
       "minecraft:ghast": "2025-06-01 02:08:12 +0000",
+      "minecraft:ender_dragon": "2025-06-06 00:24:31 +0000",
       "minecraft:hoglin": "2025-06-01 01:10:05 +0000",
       "minecraft:piglin": "2025-06-03 17:25:21 +0000",
       "minecraft:guardian": "2025-06-03 16:25:33 +0000",
@@ -4139,6 +4140,60 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-06-06 00:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-06 00:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-06 00:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-06-06 00:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-06 00:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 00:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 00:25:08 +0000"
     },
     "done": true
   },
