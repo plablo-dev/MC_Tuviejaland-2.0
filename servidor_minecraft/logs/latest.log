@@ -280,3 +280,24 @@
 [19:37:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
 [19:37:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
 [19:37:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
+[19:50:01] [Server thread/INFO]: IlarilarieOhOHIO[/127.246.153.191:44463] logged in with entity id 121348 at (728.6999999880791, 192.0, -206.06296816981288)
+[19:50:01] [Server thread/INFO]: IlarilarieOhOHIO joined the game
+[19:50:03] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+[19:50:03] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[19:50:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[19:50:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[19:50:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[19:52:58] [Server thread/INFO]: xHARITOLx[/127.62.88.107:35167] logged in with entity id 123552 at (-1700.9611760388595, 55.0, -4782.814231516457)
+[19:52:58] [Server thread/INFO]: xHARITOLx joined the game
+[19:53:01] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
+[19:53:01] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
+[19:53:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[19:53:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[19:53:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[19:53:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[19:53:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[19:53:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[19:53:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[19:53:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[19:53:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[19:53:20] [Server thread/INFO]: [Not Secure] <xHARITOLx> viene la páloma, con su palomar
