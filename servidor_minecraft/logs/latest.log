@@ -428,3 +428,27 @@
 [02:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
 [02:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
 [02:30:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02:30:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[02:31:38] [Server thread/INFO]: Trejos1111 is incapacitated!
+[02:31:56] [Server thread/INFO]: Trejos1111 has been revived!
+[02:32:02] [Server thread/INFO]: xHARITOLx is incapacitated!
+[02:32:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a9438318-3f43-38b6-893d-7245ccfe2514 timed out
+[02:32:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Trejos1111
+[02:32:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Trejos1111
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce timed out
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player IlarilarieOhOHIO
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1fd35de1-ffd5-3cac-beba-c36100fd459f timed out
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player pipi_caliente69
+[02:32:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to pipi_caliente69
+[02:32:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 8243e5ad-1a2b-3b0f-9f08-d41dee077115 timed out
+[02:32:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Dezar68
+[02:32:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Dezar68
+[02:33:03] [Server Watchdog/ERROR]: A single server tick took 60.00 seconds (should be max 0.05)
+[02:33:03] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[02:33:26] [Server thread/INFO]: xHARITOLx was slain by Trejos1111 using [s🗡ANIQUILADORA🗡s] and bled out
+[02:33:36] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/MC_Tuviejaland-2.0/servidor_minecraft/./crash-reports/crash-2025-06-06_02.33.36-server.txt
