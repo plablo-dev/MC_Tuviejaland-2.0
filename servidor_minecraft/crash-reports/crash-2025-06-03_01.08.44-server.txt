@@ -59,7 +59,7 @@ Stacktrace:
 	at net.minecraft.class_3218$$Lambda/0x0000731bf0f75720.accept(Unknown Source)
 	at net.minecraft.class_5574.method_31791(class_5574.java:54)
 	at net.minecraft.class_3218.method_18765(class_3218.java:363)
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:948)
+	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:948) 
 	at net.minecraft.class_3176.method_3813(class_3176.java:283)
 	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:845)
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:683)

@@ -1,5 +1,5 @@
-[02:36:33] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[02:36:34] [main/INFO]: Loading 97 mods:
+[03:51:31] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[03:51:34] [main/INFO]: Loading 97 mods:
 	- architectury 11.1.17
 	- artifacts 10.0.11
 	   |-- cardinal-components-base 5.4.0
@@ -120,183 +120,257 @@
 	   \-- sgui 1.4.2+1.20.4
 	- voicechat 1.20.4-2.5.22
 	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
-[02:36:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:36:34] [main/INFO]: Compatibility level set to JAVA_17
-[02:36:34] [main/WARN]: Reference map 'EasyMagic-Fabric-refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:36:34] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:36:35] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[02:36:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[02:36:43] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[02:36:43] [main/ERROR]: No data fixer registered for artifacts:mimic
-[02:36:43] [main/INFO]: Constructing common components for easyanvils:main
-[02:36:43] [main/INFO]: Loading common config for easyanvils
-[02:36:43] [Thread-2/INFO]: Reloading common config for easyanvils
-[02:36:43] [Thread-2/INFO]: Reloading common config for easyanvils
-[02:36:43] [main/INFO]: Constructing common components for easymagic:main
-[02:36:43] [main/INFO]: ExpandAbility here, who dis?
-[02:36:43] [main/INFO]: Constructing common components for puzzleslib:main
-[02:36:43] [main/INFO]: [voicechat] Compatibility version 18
-[02:36:43] [main/INFO]: [voicechat] Loading plugins
-[02:36:43] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[02:36:43] [main/INFO]: [voicechat] Initializing plugins
-[02:36:43] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[02:36:43] [main/INFO]: Initializing plugin config & locale files...
-[02:36:44] [main/INFO]: Successfully initialized plugin config & locale files
-[02:36:44] [main/INFO]: Initializing commands...
-[02:36:44] [main/INFO]: Successfully initialized commands
-[02:36:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:36:46] [main/INFO]: Loaded 7 recipes
-[02:36:46] [main/INFO]: Loaded 1294 advancements
-[02:36:46] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[02:36:47] [main/INFO]: Applied 53 biome modifications to 53 of 64 new biomes in 9.320 ms
-[02:36:47] [Server thread/INFO]: Loading server config for easyanvils
-[02:36:47] [Thread-2/INFO]: Reloading server config for easyanvils
-[02:36:47] [Server thread/INFO]: Loading server config for easymagic
-[02:36:47] [Thread-2/INFO]: Reloading server config for easyanvils
-[02:36:47] [Server thread/INFO]: [STDERR]: java.io.IOException: Is a directory
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read0(Native Method)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read(UnixFileDispatcherImpl.java:51)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:340)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:306)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:283)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:234)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:74)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.read(Files.java:3237)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3359)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3318)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.lambda$loadConfig$1(ConfigManager.java:61)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.loadConfig(ConfigManager.java:58)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.GravesMod.lambda$onInitialize$1(GravesMod.java:97)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$zkf000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:2909)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:650)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270)
-[02:36:47] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[02:36:47] [Server thread/INFO]: Initializing SQLite database connection...
-[02:36:47] [Server thread/INFO]: Successfully initialized SQLite database connection
-[02:36:47] [Server thread/INFO]: Initializing hooks...
-[02:36:47] [Server thread/INFO]: Registered 1 mod hooks: Fabric PlaceholderAPI
-[02:36:47] [Server thread/INFO]: Successfully initialized hooks
-[02:36:47] [Server thread/INFO]: Initializing events...
-[02:36:47] [Server thread/INFO]: Successfully initialized events
-[02:36:47] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:36:47] [Server thread/INFO]: Loading properties
-[02:36:47] [Server thread/INFO]: Default game type: SURVIVAL
-[02:36:47] [Server thread/INFO]: Generating keypair
-[02:36:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:36:47] [ForkJoinPool.commonPool-worker-1/WARN]: A new version of HuskHomes is available: v4.9.6 (running v4.6.2)
-[02:36:47] [Server thread/INFO]: Using epoll channel type
-[02:36:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:36:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:36:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:36:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:36:47] [Server thread/INFO]: Preparing level "world"
-[02:36:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:36:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:36:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:36:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:36:56] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[02:36:57] [Worker-Main-1/INFO]: Preparing spawn area: 77%
-[02:36:57] [Server thread/INFO]: Time elapsed: 5153 ms
-[02:36:57] [Server thread/INFO]: Done (9.520s)! For help, type "help"
-[02:36:57] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[02:36:57] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'already-cms.gl.at.ply.gg', binding to wildcard IP instead
-[02:36:57] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at already-cms.gl.at.ply.gg:3486
-[02:37:04] [Server thread/INFO]: xHARITOLx[/127.247.36.85:46671] logged in with entity id 27 at (-340.44959256540693, 49.0, -994.2375000119209)
-[02:37:04] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[02:37:04] [Server thread/INFO]: xHARITOLx joined the game
-[02:37:05] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
-[02:37:05] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
-[02:37:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[02:37:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[02:37:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
-[02:37:07] [Server thread/INFO]: Dezar68[/127.129.89.92:49711] logged in with entity id 64 at (403.48070461265684, 13.0, -294.88293138901065)
-[02:37:07] [Server thread/INFO]: Dezar68 joined the game
-[02:37:08] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
-[02:37:08] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
-[02:37:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
-[02:37:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
-[02:37:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
-[02:37:10] [Server thread/INFO]: pipi_caliente69[/127.214.193.124:48907] logged in with entity id 955 at (88.6520992763395, 1.0, -99.72876536822551)
-[02:37:10] [Server thread/INFO]: pipi_caliente69 joined the game
-[02:37:10] [Server thread/INFO]: [voicechat] Received secret request of pipi_caliente69 (18)
-[02:37:10] [Server thread/INFO]: [voicechat] Sent secret to pipi_caliente69
-[02:37:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1fd35de1-ffd5-3cac-beba-c36100fd459f
-[02:37:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1fd35de1-ffd5-3cac-beba-c36100fd459f
-[02:37:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pipi_caliente69 (1fd35de1-ffd5-3cac-beba-c36100fd459f) successfully connected to voice chat
-[02:37:13] [Server thread/INFO]: Trejos1111[/127.60.167.187:55619] logged in with entity id 1059 at (-339.33065709147814, 49.43152384527073, -993.5892460848877)
-[02:37:13] [Server thread/INFO]: Trejos1111 joined the game
-[02:37:13] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
-[02:37:13] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
-[02:37:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
-[02:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
-[02:37:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
-[02:37:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02:37:22] [Server thread/INFO]: IlarilarieOhOHIO[/127.57.143.3:39865] logged in with entity id 1662 at (728.6999999880791, 192.0, -206.10624998807907)
-[02:37:22] [Server thread/INFO]: IlarilarieOhOHIO joined the game
-[02:37:24] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
-[02:37:24] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
-[02:37:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
-[02:37:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
-[02:37:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
-[02:37:30] [Server thread/INFO]: [Trejos1111: Teleported xHARITOLx to Trejos1111]
-[02:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10477ms or 209 ticks behind
-[02:37:45] [Server thread/INFO]: [Not Secure] <pipi_caliente69> grupo
-[02:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[02:38:45] [Server thread/INFO]: xHARITOLx is incapacitated!
-[02:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[02:39:15] [Server thread/INFO]: xHARITOLx has been revived!
-[02:40:28] [Server thread/INFO]: [Not Secure] <xHARITOLx> yaaa
-[02:40:57] [Server thread/INFO]: xHARITOLx lost connection: Disconnected
-[02:40:57] [Server thread/INFO]: xHARITOLx left the game
-[02:40:57] [Server thread/INFO]: [voicechat] Disconnecting client xHARITOLx
-[02:41:07] [Server thread/INFO]: xHARITOLx[/127.247.36.85:54831] logged in with entity id 10028 at (-437.69834120221316, 64.0, -921.1854950918557)
-[02:41:07] [Server thread/INFO]: xHARITOLx joined the game
-[02:41:08] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
-[02:41:08] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
-[02:41:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[02:41:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[02:41:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
-[02:41:32] [Server thread/INFO]: [Trejos1111: Set own game mode to Creative Mode]
-[02:42:03] [Server thread/INFO]: [Trejos1111: Set own game mode to Survival Mode]
-[02:42:35] [Server thread/INFO]: [Trejos1111: Applied enchantment Protection II to xHARITOLx's item]
-[02:42:45] [Server thread/INFO]: [Trejos1111: Applied enchantment Protection II to xHARITOLx's item]
-[02:42:52] [Server thread/INFO]: [Trejos1111: Applied enchantment Protection IV to xHARITOLx's item]
-[02:43:13] [Server thread/INFO]: [Trejos1111: Applied enchantment Swift Sneak II to xHARITOLx's item]
-[02:43:27] [Server thread/INFO]: [Trejos1111: Applied enchantment Protection II to xHARITOLx's item]
-[02:44:34] [Server thread/INFO]: [Trejos1111: Applied enchantment Unbreaking III to xHARITOLx's item]
-[02:44:59] [Server thread/INFO]: [Trejos1111: Applied enchantment Unbreaking III to Trejos1111's item]
-[02:45:06] [Server thread/INFO]: [Trejos1111: Applied enchantment Unbreaking III to Trejos1111's item]
-[02:45:11] [Server thread/INFO]: [Trejos1111: Applied enchantment Unbreaking III to Trejos1111's item]
-[02:45:23] [Server thread/INFO]: [Trejos1111: Applied enchantment Mending to Trejos1111's item]
-[02:45:29] [Server thread/INFO]: [Trejos1111: Applied enchantment Mending to Trejos1111's item]
-[02:45:32] [Server thread/INFO]: [Trejos1111: Applied enchantment Mending to Trejos1111's item]
-[02:45:35] [Server thread/INFO]: [Trejos1111: Applied enchantment Mending to Trejos1111's item]
-[02:46:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[02:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4501ms or 90 ticks behind
-[02:47:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6685ms or 133 ticks behind
-[02:47:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4887ms or 97 ticks behind
-[02:48:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4726ms or 94 ticks behind
-[02:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
-[02:48:41] [Server thread/INFO]: xHARITOLx is incapacitated!
-[02:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3611ms or 72 ticks behind
-[02:48:53] [Server thread/INFO]: xHARITOLx has been revived!
-[02:49:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
-[02:49:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3299ms or 65 ticks behind
-[02:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[02:50:53] [Server thread/WARN]: Dezar68 moved too quickly! -5.074026206184499,0.756759288177264,-8.649491322336615
+[03:51:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:51:36] [main/INFO]: Compatibility level set to JAVA_17
+[03:51:36] [main/WARN]: Reference map 'EasyMagic-Fabric-refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:51:36] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:51:37] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[03:51:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:51:49] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03:51:49] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03:51:49] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03:51:49] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03:51:49] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03:51:49] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03:51:49] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03:51:49] [main/ERROR]: No data fixer registered for artifacts:mimic
+[03:51:49] [main/INFO]: Constructing common components for easyanvils:main
+[03:51:49] [main/INFO]: Loading common config for easyanvils
+[03:51:49] [Thread-2/INFO]: Reloading common config for easyanvils
+[03:51:49] [Thread-2/INFO]: Reloading common config for easyanvils
+[03:51:49] [main/INFO]: Constructing common components for easymagic:main
+[03:51:49] [main/INFO]: ExpandAbility here, who dis?
+[03:51:49] [main/INFO]: Constructing common components for puzzleslib:main
+[03:51:50] [main/INFO]: [voicechat] Compatibility version 18
+[03:51:50] [main/INFO]: [voicechat] Loading plugins
+[03:51:50] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[03:51:50] [main/INFO]: [voicechat] Initializing plugins
+[03:51:50] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[03:51:50] [main/INFO]: Initializing plugin config & locale files...
+[03:51:51] [main/INFO]: Successfully initialized plugin config & locale files
+[03:51:51] [main/INFO]: Initializing commands...
+[03:51:51] [main/INFO]: Successfully initialized commands
+[03:51:51] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:51:54] [main/INFO]: Loaded 7 recipes
+[03:51:54] [main/INFO]: Loaded 1294 advancements
+[03:51:54] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[03:51:55] [main/INFO]: Applied 53 biome modifications to 53 of 64 new biomes in 11.96 ms
+[03:51:55] [Server thread/INFO]: Loading server config for easyanvils
+[03:51:55] [Thread-2/INFO]: Reloading server config for easyanvils
+[03:51:55] [Server thread/INFO]: Loading server config for easymagic
+[03:51:55] [Thread-2/INFO]: Reloading server config for easyanvils
+[03:51:55] [Server thread/INFO]: [STDERR]: java.io.IOException: Is a directory
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read0(Native Method)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read(UnixFileDispatcherImpl.java:51)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:340)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:306)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:283)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:234)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:74)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.read(Files.java:3237)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3359)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3318)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.lambda$loadConfig$1(ConfigManager.java:61)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.loadConfig(ConfigManager.java:58)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.GravesMod.lambda$onInitialize$1(GravesMod.java:97)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$zkf000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:2909)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:650)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270)
+[03:51:55] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:51:55] [Server thread/INFO]: Initializing SQLite database connection...
+[03:51:56] [Server thread/INFO]: Successfully initialized SQLite database connection
+[03:51:56] [Server thread/INFO]: Initializing hooks...
+[03:51:56] [Server thread/INFO]: Registered 1 mod hooks: Fabric PlaceholderAPI
+[03:51:56] [Server thread/INFO]: Successfully initialized hooks
+[03:51:56] [Server thread/INFO]: Initializing events...
+[03:51:56] [Server thread/INFO]: Successfully initialized events
+[03:51:56] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:51:56] [Server thread/INFO]: Loading properties
+[03:51:56] [Server thread/INFO]: Default game type: SURVIVAL
+[03:51:56] [Server thread/INFO]: Generating keypair
+[03:51:56] [ForkJoinPool.commonPool-worker-1/WARN]: A new version of HuskHomes is available: v4.9.6 (running v4.6.2)
+[03:51:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:51:56] [Server thread/INFO]: Using epoll channel type
+[03:51:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:51:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:51:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:51:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:51:56] [Server thread/INFO]: Preparing level "world"
+[03:52:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:52:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:52:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:52:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:52:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:52:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:52:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:52:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:52:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:52:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:52:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:52:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:52:06] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[03:52:07] [Worker-Main-3/INFO]: Preparing spawn area: 68%
+[03:52:07] [Server thread/INFO]: Time elapsed: 6226 ms
+[03:52:07] [Server thread/INFO]: Done (10.725s)! For help, type "help"
+[03:52:07] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03:52:07] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'already-cms.gl.at.ply.gg', binding to wildcard IP instead
+[03:52:07] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at already-cms.gl.at.ply.gg:3486
+[03:52:12] [Server thread/INFO]: Dezar68[/127.129.89.92:60251] logged in with entity id 26 at (582.6941037173361, 13.0, -273.53561223808026)
+[03:52:13] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[03:52:13] [Server thread/INFO]: Dezar68 joined the game
+[03:52:14] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[03:52:14] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[03:52:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[03:52:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[03:52:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[03:52:16] [Server thread/INFO]: IlarilarieOhOHIO[/127.57.143.3:59127] logged in with entity id 665 at (1095.5533306568786, 64.0, 3064.9804211726346)
+[03:52:16] [Server thread/INFO]: IlarilarieOhOHIO joined the game
+[03:52:20] [Server thread/INFO]: [voicechat] Received secret request of IlarilarieOhOHIO (18)
+[03:52:20] [Server thread/INFO]: [voicechat] Sent secret to IlarilarieOhOHIO
+[03:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3891ms or 77 ticks behind
+[03:52:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[03:52:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5b40bfaf-6541-3c7b-a78f-ddcb343ecdce
+[03:52:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player IlarilarieOhOHIO (5b40bfaf-6541-3c7b-a78f-ddcb343ecdce) successfully connected to voice chat
+[03:52:26] [Server thread/WARN]: UUID of added entity already exists: class_1560['Enderman'/890, l='ServerLevel[world]', x=527.73, y=54.00, z=-370.29]
+[03:52:39] [Server thread/WARN]: UUID of added entity already exists: class_1452['Pig'/1289, l='ServerLevel[world]', x=846.30, y=116.00, z=3160.31]
+[03:54:56] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=202, y=47, z=211}
+[04:07:17] [Server thread/WARN]: IlarilarieOhOHIO moved wrongly!
+[04:07:24] [Server thread/INFO]: xHARITOLx[/127.247.36.85:60811] logged in with entity id 20604 at (957.9094319357433, 70.78475572153988, 2783.4276358897428)
+[04:07:24] [Server thread/INFO]: xHARITOLx joined the game
+[04:07:26] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
+[04:07:26] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:07:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:07:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:07:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:07:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:07:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:07:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:07:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -5.97958164524556,0.0,8.506805754413108
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -6.211164503462044,0.0,8.832931576953342
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -6.4427903999691125,0.0,9.159028519270578
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -6.674458154592571,0.0,9.485097245389625
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -6.90616358151982,0.0,9.811140576930484
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -7.137902913519554,0.0,10.13716105335152
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -7.369672760083745,0.0,10.463160960165624
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -7.60147006975518,0.0,10.789142354333308
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -7.833292096222522,0.0,11.115107087120123
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -8.065136367805565,0.0,11.441056824664884
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -8.297003781785463,0.0,11.766990842493215
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -8.528892023922026,0.0,12.092910712577577
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -8.760799011399058,0.0,12.41881784969246
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -8.99272286968204,0.0,12.74471352713499
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -9.22466191169002,0.0,13.070598890873043
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -9.456614619050129,0.0,13.396474972277247
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -9.68857962522685,0.0,13.722342699581532
+[04:07:42] [Server thread/WARN]: Birch Boat (vehicle of IlarilarieOhOHIO) moved too quickly! -9.920555700338184,0.0,14.04820290819498
+[04:07:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[04:07:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:07:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:09:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:09:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:09:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:09:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:09:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:09:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:09:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:09:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:09:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:09:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:09:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:09:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:10:11] [Server thread/WARN]: xHARITOLx was kicked for floating too long!
+[04:10:11] [Server thread/INFO]: xHARITOLx lost connection: Flying is not enabled on this server
+[04:10:11] [Server thread/INFO]: xHARITOLx left the game
+[04:10:11] [Server thread/INFO]: [voicechat] Disconnecting client xHARITOLx
+[04:10:19] [Server thread/INFO]: xHARITOLx[/127.247.36.85:38333] logged in with entity id 24836 at (47.466572951614644, 35.6746004801003, -63.44715734657771)
+[04:10:19] [Server thread/INFO]: xHARITOLx joined the game
+[04:10:20] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
+[04:10:20] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:10:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:10:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:10:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:10:30] [Server thread/INFO]: [Not Secure] <xHARITOLx> Como que no esta permitido volar???
+[04:10:40] [Server thread/INFO]: [Not Secure] <IlarilarieOhOHIO> trejos:
+[04:11:00] [Server thread/INFO]: [Not Secure] [Server] que paso zungas
+[04:11:19] [Server thread/INFO]: [Not Secure] <xHARITOLx> que su server me saco con el argumento : No se puede volar en este servido
+[04:11:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:11:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:11:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:11:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:11:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:11:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:12:06] [Server thread/INFO]: [Not Secure] [Server] es su lag
+[04:12:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:12:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:12:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:12:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:12:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:12:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:12:25] [Server thread/INFO]: [Not Secure] <xHARITOLx> ahh gracias, como siempre; El rico humilando al pobre
+[04:12:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:12:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:12:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:12:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:12:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:12:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:12:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:12:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:12:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:12:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:13:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:13:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:13:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:13:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:13:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:13:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:13:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:13:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:14:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:14:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:14:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:14:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:14:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:14:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:14:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:14:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:14:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:14:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:14:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:14:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:15:26] [Server thread/INFO]: IlarilarieOhOHIO has made the advancement [Mind Your Manors]
+[04:18:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:18:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:18:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:18:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:18:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:18:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:18:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:18:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:18:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:18:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:18:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:18:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:19:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:19:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:19:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:19:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:19:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:19:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:20:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:20:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:20:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:20:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:20:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:20:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:20:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 4cfbe52e-0a09-3353-afb1-a69812cf81a9 timed out
+[04:20:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player xHARITOLx
+[04:20:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to xHARITOLx
+[04:20:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:20:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
+[04:20:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
+[04:21:24] [Server thread/WARN]: IlarilarieOhOHIO moved wrongly!
