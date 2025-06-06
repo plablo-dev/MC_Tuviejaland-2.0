@@ -3218,6 +3218,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-06 01:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-06-06 01:03:51 +0000"
@@ -3230,6 +3236,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-06-06 01:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-06-06 01:03:51 +0000"
@@ -3239,6 +3251,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2025-06-06 01:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-06 01:29:51 +0000"
     },
     "done": true
   },
