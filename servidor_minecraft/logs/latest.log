@@ -1,5 +1,5 @@
-[03:32:52] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
-[03:32:55] [main/INFO]: Loading 97 mods:
+[04:59:18] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.16.3
+[04:59:18] [main/INFO]: Loading 97 mods:
 	- architectury 11.1.17
 	- artifacts 10.0.11
 	   |-- cardinal-components-base 5.4.0
@@ -120,136 +120,131 @@
 	   \-- sgui 1.4.2+1.20.4
 	- voicechat 1.20.4-2.5.22
 	   \-- fabric-key-binding-api-v1 1.0.39+f4b7e42432
-[03:32:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:32:56] [main/INFO]: Compatibility level set to JAVA_17
-[03:32:56] [main/WARN]: Reference map 'EasyMagic-Fabric-refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:32:57] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:32:58] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[03:32:58] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:33:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[03:33:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[03:33:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[03:33:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[03:33:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[03:33:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[03:33:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[03:33:09] [main/ERROR]: No data fixer registered for artifacts:mimic
-[03:33:09] [main/INFO]: Constructing common components for easyanvils:main
-[03:33:09] [main/INFO]: Loading common config for easyanvils
-[03:33:09] [Thread-2/INFO]: Reloading common config for easyanvils
-[03:33:09] [Thread-2/INFO]: Reloading common config for easyanvils
-[03:33:09] [main/INFO]: Constructing common components for easymagic:main
-[03:33:09] [main/INFO]: ExpandAbility here, who dis?
-[03:33:10] [main/INFO]: Constructing common components for puzzleslib:main
-[03:33:11] [main/INFO]: [voicechat] Compatibility version 18
-[03:33:11] [main/INFO]: [voicechat] Loading plugins
-[03:33:11] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[03:33:11] [main/INFO]: [voicechat] Initializing plugins
-[03:33:11] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[03:33:11] [main/INFO]: Initializing plugin config & locale files...
-[03:33:11] [main/INFO]: Successfully initialized plugin config & locale files
-[03:33:11] [main/INFO]: Initializing commands...
-[03:33:11] [main/INFO]: Successfully initialized commands
-[03:33:11] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:33:14] [main/INFO]: Loaded 7 recipes
-[03:33:14] [main/INFO]: Loaded 1294 advancements
-[03:33:14] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
-[03:33:15] [main/INFO]: Applied 53 biome modifications to 53 of 64 new biomes in 11.77 ms
-[03:33:15] [Server thread/INFO]: Loading server config for easyanvils
-[03:33:15] [Thread-2/INFO]: Reloading server config for easyanvils
-[03:33:15] [Server thread/INFO]: Loading server config for easymagic
-[03:33:15] [Thread-2/INFO]: Reloading server config for easyanvils
-[03:33:15] [Server thread/INFO]: [STDERR]: java.io.IOException: Is a directory
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read0(Native Method)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read(UnixFileDispatcherImpl.java:51)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:340)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:306)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:283)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:234)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:74)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.read(Files.java:3237)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3359)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3318)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.lambda$loadConfig$1(ConfigManager.java:61)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.loadConfig(ConfigManager.java:58)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.GravesMod.lambda$onInitialize$1(GravesMod.java:97)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$zkf000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:2909)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:650)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270)
-[03:33:15] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[03:33:15] [Server thread/INFO]: Initializing SQLite database connection...
-[03:33:15] [Server thread/INFO]: Successfully initialized SQLite database connection
-[03:33:15] [Server thread/INFO]: Initializing hooks...
-[03:33:15] [Server thread/INFO]: Registered 1 mod hooks: Fabric PlaceholderAPI
-[03:33:15] [Server thread/INFO]: Successfully initialized hooks
-[03:33:15] [Server thread/INFO]: Initializing events...
-[03:33:15] [Server thread/INFO]: Successfully initialized events
-[03:33:15] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[03:33:15] [Server thread/INFO]: Loading properties
-[03:33:15] [Server thread/INFO]: Default game type: SURVIVAL
-[03:33:15] [Server thread/INFO]: Generating keypair
-[03:33:15] [ForkJoinPool.commonPool-worker-1/WARN]: A new version of HuskHomes is available: v4.9.6 (running v4.6.2)
-[03:33:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:33:15] [Server thread/INFO]: Using epoll channel type
-[03:33:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:33:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:33:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:33:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:33:16] [Server thread/INFO]: Preparing level "world"
-[03:33:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:33:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:33:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:33:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:33:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:33:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:33:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:33:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:33:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:33:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:33:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:33:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:33:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:33:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:33:29] [Worker-Main-2/INFO]: Preparing spawn area: 33%
-[03:33:29] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[03:33:29] [Server thread/INFO]: Time elapsed: 7056 ms
-[03:33:29] [Server thread/INFO]: Done (13.669s)! For help, type "help"
-[03:33:29] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03:33:30] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'already-cms.gl.at.ply.gg', binding to wildcard IP instead
-[03:33:30] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at already-cms.gl.at.ply.gg:3486
-[03:33:35] [Server thread/INFO]: Trejos1111[/127.60.167.187:46947] logged in with entity id 26 at (-1772.2858388485306, 115.0, -4675.47171509609)
-[03:33:35] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[03:33:35] [Server thread/INFO]: Trejos1111 joined the game
-[03:33:37] [Server thread/INFO]: [voicechat] Received secret request of Trejos1111 (18)
-[03:33:37] [Server thread/INFO]: [voicechat] Sent secret to Trejos1111
-[03:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
-[03:33:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9438318-3f43-38b6-893d-7245ccfe2514
-[03:33:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9438318-3f43-38b6-893d-7245ccfe2514
-[03:33:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Trejos1111 (a9438318-3f43-38b6-893d-7245ccfe2514) successfully connected to voice chat
-[03:33:46] [Server thread/INFO]: xHARITOLx[/127.62.88.107:41103] logged in with entity id 254 at (-1762.7642356545925, 111.0, -4684.65790992026)
-[03:33:46] [Server thread/INFO]: xHARITOLx joined the game
-[03:33:48] [Server thread/INFO]: [voicechat] Received secret request of xHARITOLx (18)
-[03:33:48] [Server thread/INFO]: [voicechat] Sent secret to xHARITOLx
-[03:33:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[03:34:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4cfbe52e-0a09-3353-afb1-a69812cf81a9
-[03:34:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player xHARITOLx (4cfbe52e-0a09-3353-afb1-a69812cf81a9) successfully connected to voice chat
-[03:36:46] [Server thread/INFO]: Dezar68[/127.129.89.92:35129] logged in with entity id 942 at (757.8778733295734, 63.0, -362.30000001192093)
-[03:36:46] [Server thread/INFO]: Dezar68 joined the game
-[03:36:48] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
-[03:36:48] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
-[03:36:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
-[03:36:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
-[03:36:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
-[03:37:27] [Server thread/INFO]: xHARITOLx is incapacitated!
-[03:37:39] [Server thread/INFO]: xHARITOLx has been revived!
-[03:57:32] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
-[03:57:58] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
-[03:57:58] [Server thread/INFO]: Trejos1111 left the game
-[03:57:58] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
-[03:58:58] [Server thread/WARN]: xHARITOLx moved too quickly! 0.7371447530324531,-4.704361308410924,-17.45874400206685
-[04:12:48] [Server thread/INFO]: [Not Secure] <xHARITOLx> haaaay una mujeeeeeer
-[04:12:56] [Server thread/INFO]: [Not Secure] <xHARITOLx> canta como Romeo*
+[04:59:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MC_Tuviejaland-2.0/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:59:19] [main/INFO]: Compatibility level set to JAVA_17
+[04:59:19] [main/WARN]: Reference map 'EasyMagic-Fabric-refmap.json' for easymagic.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:59:19] [main/WARN]: Reference map 'ForgeConfigAPIPort-Common-refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:59:20] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[04:59:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:59:27] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[04:59:27] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[04:59:27] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[04:59:27] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[04:59:27] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[04:59:27] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[04:59:27] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[04:59:27] [main/ERROR]: No data fixer registered for artifacts:mimic
+[04:59:27] [main/INFO]: Constructing common components for easyanvils:main
+[04:59:28] [main/INFO]: Loading common config for easyanvils
+[04:59:28] [Thread-2/INFO]: Reloading common config for easyanvils
+[04:59:28] [Thread-2/INFO]: Reloading common config for easyanvils
+[04:59:28] [main/INFO]: Constructing common components for easymagic:main
+[04:59:28] [main/INFO]: ExpandAbility here, who dis?
+[04:59:28] [main/INFO]: Constructing common components for puzzleslib:main
+[04:59:28] [main/INFO]: [voicechat] Compatibility version 18
+[04:59:28] [main/INFO]: [voicechat] Loading plugins
+[04:59:28] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[04:59:28] [main/INFO]: [voicechat] Initializing plugins
+[04:59:28] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[04:59:28] [main/INFO]: Initializing plugin config & locale files...
+[04:59:28] [main/INFO]: Successfully initialized plugin config & locale files
+[04:59:28] [main/INFO]: Initializing commands...
+[04:59:28] [main/INFO]: Successfully initialized commands
+[04:59:29] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:59:31] [main/INFO]: Loaded 7 recipes
+[04:59:31] [main/INFO]: Loaded 1294 advancements
+[04:59:31] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 58 translation keys
+[04:59:32] [main/INFO]: Applied 53 biome modifications to 53 of 64 new biomes in 17.98 ms
+[04:59:32] [Server thread/INFO]: Loading server config for easyanvils
+[04:59:32] [Thread-2/INFO]: Reloading server config for easyanvils
+[04:59:32] [Thread-2/INFO]: Reloading server config for easyanvils
+[04:59:32] [Server thread/INFO]: Loading server config for easymagic
+[04:59:32] [Thread-2/INFO]: Reloading server config for easymagic
+[04:59:32] [Thread-2/INFO]: Reloading server config for easymagic
+[04:59:32] [Server thread/INFO]: [STDERR]: java.io.IOException: Is a directory
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read0(Native Method)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.UnixFileDispatcherImpl.read(UnixFileDispatcherImpl.java:51)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:340)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:306)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:283)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:234)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:74)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.read(Files.java:3237)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3359)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/java.nio.file.Files.readString(Files.java:3318)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.lambda$loadConfig$1(ConfigManager.java:61)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.config.ConfigManager.loadConfig(ConfigManager.java:58)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at eu.pb4.graves.GravesMod.lambda$onInitialize$1(GravesMod.java:97)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$zkf000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:2909)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:650)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:270)
+[04:59:32] [Server thread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[04:59:32] [Server thread/INFO]: Initializing SQLite database connection...
+[04:59:32] [Server thread/INFO]: Successfully initialized SQLite database connection
+[04:59:32] [Server thread/INFO]: Initializing hooks...
+[04:59:32] [Server thread/INFO]: Registered 1 mod hooks: Fabric PlaceholderAPI
+[04:59:32] [Server thread/INFO]: Successfully initialized hooks
+[04:59:32] [Server thread/INFO]: Initializing events...
+[04:59:32] [Server thread/INFO]: Successfully initialized events
+[04:59:32] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[04:59:32] [Server thread/INFO]: Loading properties
+[04:59:32] [Server thread/INFO]: Default game type: SURVIVAL
+[04:59:32] [Server thread/INFO]: Generating keypair
+[04:59:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:59:32] [Server thread/INFO]: Using epoll channel type
+[04:59:32] [ForkJoinPool.commonPool-worker-1/WARN]: A new version of HuskHomes is available: v4.9.6 (running v4.6.2)
+[04:59:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:59:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:59:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:59:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:59:32] [Server thread/INFO]: Preparing level "world"
+[04:59:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:59:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:59:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:59:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:59:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:59:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:59:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:59:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:59:39] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:59:39] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[04:59:40] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[04:59:40] [Server thread/INFO]: Time elapsed: 4603 ms
+[04:59:40] [Server thread/INFO]: Done (7.401s)! For help, type "help"
+[04:59:40] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[04:59:40] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address 'already-cms.gl.at.ply.gg', binding to wildcard IP instead
+[04:59:40] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at already-cms.gl.at.ply.gg:3486
+[04:59:54] [Server thread/INFO]: Dezar68[/127.129.89.92:46475] logged in with entity id 27 at (792.0481828232853, 65.0, -320.91286143530806)
+[04:59:54] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[04:59:54] [Server thread/INFO]: Dezar68 joined the game
+[04:59:55] [Server thread/INFO]: [voicechat] Received secret request of Dezar68 (18)
+[04:59:55] [Server thread/INFO]: [voicechat] Sent secret to Dezar68
+[04:59:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[04:59:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 8243e5ad-1a2b-3b0f-9f08-d41dee077115
+[04:59:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
+[05:16:18] [Server thread/WARN]: Dezar68 moved wrongly!
+[05:31:17] [Server thread/WARN]: Dezar68 moved wrongly!
+[06:10:32] [Server thread/WARN]: Dezar68 moved wrongly!
+[06:35:28] [Server thread/INFO]: Dezar68 lost connection: Disconnected
+[06:35:28] [Server thread/INFO]: Dezar68 left the game
+[06:35:28] [Server thread/INFO]: [voicechat] Disconnecting client Dezar68
+[06:36:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:36:10] [Server thread/INFO]: [3~<--[HERE]
+[06:36:45] [Server thread/INFO]: Stopping the server
+[06:36:45] [Server thread/INFO]: Successfully disabled HuskHomes v4.6.2
+[06:36:45] [Server thread/INFO]: Stopping server
+[06:36:45] [Server thread/INFO]: Saving players
+[06:36:45] [Server thread/INFO]: Saving worlds
+[06:36:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:36:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:36:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:36:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:36:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:36:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:36:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:36:46] [Server thread/INFO]: Unloading server config for easyanvils
+[06:36:46] [Server thread/INFO]: Unloading server config for easymagic
