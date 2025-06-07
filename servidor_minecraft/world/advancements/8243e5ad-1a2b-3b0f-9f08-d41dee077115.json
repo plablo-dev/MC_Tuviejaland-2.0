@@ -534,10 +534,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-06 04:36:56 +0000",
+      "minecraft:blaze": "2025-06-06 21:38:13 +0000",
       "minecraft:skeleton": "2025-05-30 02:27:11 +0000",
       "minecraft:elder_guardian": "2025-06-03 19:12:57 +0000",
       "minecraft:phantom": "2025-06-05 04:56:54 +0000",
       "minecraft:zombified_piglin": "2025-06-03 18:05:00 +0000",
+      "minecraft:wither_skeleton": "2025-06-06 21:40:08 +0000",
       "minecraft:hoglin": "2025-06-06 00:04:50 +0000",
       "minecraft:shulker": "2025-06-06 01:01:48 +0000",
       "minecraft:cave_spider": "2025-05-30 18:49:01 +0000",
@@ -2331,9 +2333,10 @@
       "minecraft:crimson_forest": "2025-06-06 00:02:11 +0000",
       "minecraft:nether_wastes": "2025-05-31 00:14:36 +0000",
       "minecraft:soul_sand_valley": "2025-05-31 00:22:10 +0000",
-      "minecraft:warped_forest": "2025-06-06 02:28:47 +0000"
+      "minecraft:warped_forest": "2025-06-06 02:28:47 +0000",
+      "minecraft:basalt_deltas": "2025-06-06 21:33:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
@@ -3965,6 +3968,96 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-06-06 20:24:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-06 21:30:35 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-06-06 21:37:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-06 21:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-06 21:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-06 21:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-06-06 21:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-06-06 21:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-06 21:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-06-06 22:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-06 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-06-06 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-06-06 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-06-06 23:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-06-06 23:42:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-06-06 23:42:57 +0000"
     },
     "done": true
   },
