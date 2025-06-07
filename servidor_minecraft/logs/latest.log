@@ -246,3 +246,8 @@
 [03:36:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Dezar68 (8243e5ad-1a2b-3b0f-9f08-d41dee077115) successfully connected to voice chat
 [03:37:27] [Server thread/INFO]: xHARITOLx is incapacitated!
 [03:37:39] [Server thread/INFO]: xHARITOLx has been revived!
+[03:57:32] [Server thread/INFO]: [Trejos1111: Teleported Trejos1111 to xHARITOLx]
+[03:57:58] [Server thread/INFO]: Trejos1111 lost connection: Disconnected
+[03:57:58] [Server thread/INFO]: Trejos1111 left the game
+[03:57:58] [Server thread/INFO]: [voicechat] Disconnecting client Trejos1111
+[03:58:58] [Server thread/WARN]: xHARITOLx moved too quickly! 0.7371447530324531,-4.704361308410924,-17.45874400206685
